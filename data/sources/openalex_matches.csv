@@ -1,0 +1,604 @@
+"key","method","status","openalex_id","candidate_title","candidate_year","candidate_doi"
+"ABRS_1981","title","review_title_candidates","https://openalex.org/W2762226418","Flora of Australia",1986,
+"ABRS_2022","title","review_title_candidates","https://openalex.org/W1993933860","A. E. Orchad (ed.): Species Plantarum: Flora of the World. Introduction to the series. IV + 91 S., 9 Karten. Australian Biological Resources Study, Canberra (Australia), 1999",1999,"https://doi.org/10.1002/fedr.19991100712"
+"ABRS_2023","title","review_title_candidates","https://openalex.org/W1993933860","A. E. Orchad (ed.): Species Plantarum: Flora of the World. Introduction to the series. IV + 91 S., 9 Karten. Australian Biological Resources Study, Canberra (Australia), 1999",1999,"https://doi.org/10.1002/fedr.19991100712"
+"Adams_1984","doi","enriched","https://openalex.org/W2110993253","Role of Acacia Spp. In Nutrient Balance and Cycling in Regenerating Eucalyptus regnans F. Muell. Forests. I. Temporal Changes in Biomass and Nutrient Content",1984,"https://doi.org/10.1071/bt9840205"
+"Ahrens_2019","doi","enriched","https://openalex.org/W2990508749","Plant functional traits differ in adaptability and are predicted to be differentially affected by climate change",2019,"https://doi.org/10.1002/ece3.5890"
+"ANBG_2019","title","review_title_candidates","https://openalex.org/W6924836621","National Seed Bank",2024,"https://doi.org/10.15468/kyg9he"
+"Andrew_2022","doi","review_doi_metadata","https://openalex.org/W4304116023","Consistently high heat tolerance acclimation in response to a simulated heatwave across species from the broadly distributed Acacia genus",2022,"https://doi.org/10.1071/fp22173"
+"Angevin_2011","title","not_found",,,,
+"Apgaua_2015","doi","enriched","https://openalex.org/W2146186801","Functional Traits and Water Transport Strategies in Lowland Tropical Rainforest Trees",2015,"https://doi.org/10.1371/journal.pone.0130799"
+"Apgaua_2017","doi","review_doi_metadata","https://openalex.org/W2530983838","Plant functional groups within a tropical forest exhibit different wood functional anatomy",2016,"https://doi.org/10.1111/1365-2435.12787"
+"Arnold_2021","doi","enriched","https://openalex.org/W3135154890","A high-throughput method for measuring critical thermal limits of leaves by chlorophyll imaging fluorescence",2021,"https://doi.org/10.1071/fp20344"
+"Arnold_2022","doi","enriched","https://openalex.org/W4283511156","Patterns of phenotypic plasticity along a thermal gradient differ by trait type in an alpine plant",2022,"https://doi.org/10.1111/1365-2435.14128"
+"Arnold_2024","doi","enriched","https://openalex.org/W4400215554","Testing the evolutionary potential of an alpine plant: phenotypic plasticity in response to growth temperature outweighs parental environmental effects and other genetic causes of variation",2024,"https://doi.org/10.1093/jxb/erae290"
+"Ashton_1975","doi","enriched","https://openalex.org/W2008570209","Studies of Litter in Eucalyptus regnans Forests",1975,"https://doi.org/10.1071/bt9750413"
+"Ashton_1976","doi","enriched","https://openalex.org/W2320772568","Phosphorus in Forest Ecosystems at Beenak, Victoria",1976,"https://doi.org/10.2307/2258689"
+"Atkinson_2020","title","not_found",,,,
+"Atkinson_2020_2","title","not_found",,,,
+"ATRP_2020","title","not_found",,,,
+"Attiwill_1980","doi","review_doi_metadata","https://openalex.org/W2068125595","Nutrient Cycling in a Eucalyptus Obliqua (L'hérit.) Forest [in Victoria]. Iv. Nutrient Uptake and Nutrient Return",1980,"https://doi.org/10.1071/bt9800199"
+"Auld_2000","doi","enriched","https://openalex.org/W2083812317","Patterns in longevity of soil seedbanks in fire-prone communities of south-eastern Australia",2000,"https://doi.org/10.1071/bt99046"
+"Baker_2019","title","not_found",,,,
+"Barclay_1974","title","review_title_candidates","https://openalex.org/W2011960094","Chemical analyses of seeds iii oil and protein content of 1253 species",1974,"https://doi.org/10.1007/bf02861984"
+"Barker_1986","title","enriched","https://openalex.org/W6968004005","A Taxonomic Revision of Australian Acanthaceae",1986,"https://doi.org/10.5281/zenodo.16447814"
+"Barrett_1996","doi","enriched","https://openalex.org/W2021716833","Transpiration by Trees From Contrasting Forest Types",1996,"https://doi.org/10.1071/bt9960249"
+"Barrett_2009","title","not_found",,,,
+"Bean_1997","doi","not_found",,,,
+"Bebawi_2015","doi","enriched","https://openalex.org/W2116782225","Seed bank longevity and age to reproductive maturity of Calotropis procera (Aiton) W.T. Aiton in the dry tropics of northern Queensland",2015,"https://doi.org/10.1071/rj14130"
+"Bell_1985","title","not_found",,,,
+"Bennett_1997","doi","enriched","https://openalex.org/W1988805535","The Nutritional Status of Healthy and Declining Stands of Banksia integrifolia on the Yanakie Isthmus, Victoria",1997,"https://doi.org/10.1071/bt96025"
+"Benson_2005","title","review_title_candidates","https://openalex.org/W7046941544","Ecology of Sydney plant species : part 10, Monocotyledon families Lemnaceae to Zosteraceae",2013,
+"Benwell_2024","doi","enriched","https://openalex.org/W4391012289","Fire responses of flora in a sclerophyll–rainforest vegetation complex in the Nightcap Range, North Coast, New South Wales",2024,"https://doi.org/10.1071/bt23049"
+"Benyon_1999","doi","no_openalex_abstract","https://openalex.org/W2111399942","Growth and water use of Eucalyptus camaldulensis and E. occidentalis on a saline discharge site near Wellington, NSW, Australia",1999,"https://doi.org/10.1016/s0378-3774(98)00080-8"
+"Bevege_1978","title","not_found",,,,
+"Bezemer_2016","doi","no_openalex_abstract","https://openalex.org/W2510020242","Paternity analysis reveals wide pollen dispersal and high multiple paternity in a small isolated population of the bird-pollinated Eucalyptus caesia (Myrtaceae)",2016,"https://doi.org/10.1038/hdy.2016.61"
+"Binns_2020","title","review_title_candidates","https://openalex.org/W2227847324","Euphrasia Arguta: Management of a species previously presumed extinct",2013,"https://doi.org/10.5962/p.373471"
+"BioNet_2025","title","not_found",,,,
+"Birk_1992","doi","no_openalex_abstract","https://openalex.org/W2084052976","Response of flooded gum (E. grandis) to intensive cultural treatments: biomass and nutrient content of eucalypt plantations and native forests",1992,"https://doi.org/10.1016/0378-1127(92)90262-8"
+"Blackman_2010","doi","enriched","https://openalex.org/W1994445213","Leaf hydraulic vulnerability is related to conduit dimensions and drought resistance across a diverse range of woody angiosperms",2010,"https://doi.org/10.1111/j.1469-8137.2010.03439.x"
+"Blackman_2014","doi","enriched","https://openalex.org/W2152666869","Leaf hydraulic vulnerability to drought is linked to site water availability across a broad range of species and climates",2014,"https://doi.org/10.1093/aob/mcu131"
+"Blackman_2018","doi","enriched","https://openalex.org/W2798253397","The links between leaf hydraulic vulnerability to drought and key aspects of leaf venation and xylem anatomy among 26 Australian woody angiosperms from contrasting climates",2018,"https://doi.org/10.1093/aob/mcy051"
+"Blackman_2019","doi","enriched","https://openalex.org/W2955531140","Desiccation time during drought is highly predictable across species of Eucalyptus from contrasting climates",2019,"https://doi.org/10.1111/nph.16042"
+"Blackman_2023","doi","enriched","https://openalex.org/W4386529517","Petiole XLA (xylem to leaf area ratio) integrates hydraulic safety and efficiency across a diverse group of eucalypt leaves",2023,"https://doi.org/10.1111/pce.14713"
+"Blake_1947","title","enriched","https://openalex.org/W4321468285","Notes on Australian Cyperaceae. VII.",1947,"https://doi.org/10.5962/p.351716"
+"Bleby_2009","doi","enriched","https://openalex.org/W2145653299","Architectural plasticity in young Eucalyptus marginata on restored bauxite mines and adjacent natural forest in south-western Australia",2009,"https://doi.org/10.1093/treephys/tpp044"
+"Bloomfield_2018","doi","enriched","https://openalex.org/W2793081125","A continental‐scale assessment of variability in leaf traits: Within species, across sites and between seasons",2018,"https://doi.org/10.1111/1365-2435.13097"
+"Bolza_1975","title","not_found",,,,
+"Bourne_2017","doi","enriched","https://openalex.org/W2599238802","Species climate range influences hydraulic and stomatal traits in Eucalyptus species",2017,"https://doi.org/10.1093/aob/mcx020"
+"Bradshaw_2022","doi","enriched","https://openalex.org/W6927398003","Variance in plant functional traits in Eucalyptus baxteri and E. obliqua – a pilot study to assess utility for inferring climate vulnerability",2022,"https://doi.org/10.25909/624bf3fa77ad4"
+"Bragg_2002","doi","enriched","https://openalex.org/W2166536757","Leaf size and foraging for light in a sclerophyll woodland",2002,"https://doi.org/10.1046/j.1365-2435.2002.00661.x"
+"BRAIN_2007","title","not_found",,,,
+"Brand_1985","title","no_openalex_abstract","https://openalex.org/W2234020453","The nutritional composition of Australian Aboriginal food plants of the desert regions",1985,"https://doi.org/10.1007/978-94-011-6830-4_5"
+"Breed_2012","doi","no_openalex_abstract","https://openalex.org/W2041996368","Mating system and early viability resistance to habitat fragmentation in a bird-pollinated eucalypt",2012,"https://doi.org/10.1038/hdy.2012.72"
+"Briggs_2010","doi","no_openalex_abstract","https://openalex.org/W1973927409","Seed characteristics and soil surface patch type interact to affect germination of semi-arid woodland species",2010,"https://doi.org/10.1007/s11258-010-9806-x"
+"Britton_1994","doi","enriched","https://openalex.org/W2016774529","Seasonal germination from wetland seed banks",1994,"https://doi.org/10.1071/mf9941445"
+"Brock_1993","title","review_title_candidates","https://openalex.org/W635466355","Native Plants of Northern Australia",2003,
+"Brodribb_2000","doi","enriched","https://openalex.org/W1990018004","Stem hydraulic supply is linked to leaf photosynthetic capacity: evidence from New Caledonian and Tasmanian rainforests",2000,"https://doi.org/10.1046/j.1365-3040.2000.00647.x"
+"Brodribb_2009","doi","review_doi_metadata","https://openalex.org/W2152409784","Hydraulic Failure Defines the Recovery and Point of Death in Water-Stressed Conifers",2008,"https://doi.org/10.1104/pp.108.129783"
+"Brooksbank_2011","doi","no_openalex_abstract","https://openalex.org/W2087299133","Water availability determines hydrological impact of tree belts in dryland cropping systems",2011,"https://doi.org/10.1016/j.agwat.2011.08.016"
+"Brooksbank_2015","title","not_found",,,,
+"Brown_2009","title","not_found",,,,
+"Brown_2018","title","review_title_candidates","https://openalex.org/W4328001893","Eremophila subangustifolia (Scrophulariaceae), a rare new species from the Mid West Region of Western Australia, with notes on E. microtheca",2018,"https://doi.org/10.58828/nuy00864"
+"Bryant_2021","doi","enriched","https://openalex.org/W3169263709","Foliar water uptake via cork warts in mangroves of the Sonneratia genus",2021,"https://doi.org/10.1111/pce.14129"
+"Bryant_2024","doi","enriched","https://openalex.org/W4392922567","Elevation‐dependent patterns of borer‐mediated snow‐gum dieback are associated with subspecies' trait differences and environmental variation",2024,"https://doi.org/10.1111/aec.13508"
+"Buckton_2019","doi","enriched","https://openalex.org/W2945680465","Functional traits of lianas in an Australian lowland rainforest align with post‐disturbance rather than dry season advantage",2019,"https://doi.org/10.1111/aec.12764"
+"Burgess_2007","doi","enriched","https://openalex.org/W2049262879","Predicting the limits to tree height using statistical regressions of leaf traits",2007,"https://doi.org/10.1111/j.1469-8137.2007.02017.x"
+"Burrows_2001","doi","enriched","https://openalex.org/W1980088625","Comparative Anatomy of the Photosynthetic Organs of 39 Xeromorphic Species from Subhumid New South Wales, Australia",2001,"https://doi.org/10.1086/319579"
+"Burrows_2008","title","enriched","https://openalex.org/W6893354795","Post-fire juvenile period of plants in south-west Australia forests and implications for fire management",2008,"https://doi.org/10.5281/zenodo.16182872"
+"Burrows_2008_2","title","enriched","https://openalex.org/W6893354795","Post-fire juvenile period of plants in south-west Australia forests and implications for fire management",2008,"https://doi.org/10.5281/zenodo.16182872"
+"Burrows_2020","title","not_found",,,,
+"Butler_2004","doi","enriched","https://openalex.org/W2053096361","Biogeography of seed‐dispersal syndromes, life‐forms and seed sizes among woody rain‐forest plants in Australia's subtropics",2007,"https://doi.org/10.1111/j.1365-2699.2007.01734.x"
+"Butler_2007","doi","enriched","https://openalex.org/W2053096361","Biogeography of seed‐dispersal syndromes, life‐forms and seed sizes among woody rain‐forest plants in Australia's subtropics",2007,"https://doi.org/10.1111/j.1365-2699.2007.01734.x"
+"Butler_2011","doi","enriched","https://openalex.org/W1968556513","Safety and streamlining of woody shoots in wind: an empirical study across 39 species in tropical Australia",2011,"https://doi.org/10.1111/j.1469-8137.2011.03887.x"
+"CAB_2009","title","review_title_candidates","https://openalex.org/W7019071470","Forestry compendium",,
+"Caldwell_2016","doi","enriched","https://openalex.org/W2257314119","Which leaf mechanical traits correlate with insect herbivory among feeding guilds?",2015,"https://doi.org/10.1093/aob/mcv178"
+"Campbell_2006","doi","not_found",,,,
+"Canham_2009","doi","review_doi_metadata","https://openalex.org/W2111090348","Water stress vulnerability of four Banksia species in contrasting ecohydrological habitats on the Gnangara Mound, Western Australia",2008,"https://doi.org/10.1111/j.1365-3040.2008.01904.x"
+"Canham_2023","doi","review_doi_metadata","https://openalex.org/W4303987205","Functional traits of riparian trees in the lower Fitzroy River, Western Australia",2022,"https://doi.org/10.1002/eco.2488"
+"Carey_2003","title","review_title_candidates","https://openalex.org/W2184537629","Wildfires in the ACT 2003: Report on Initial Impacts on Natural Ecosystems",2003,
+"Carpenter_1994","doi","not_found",,,,
+"Carpenter_2005","doi","enriched","https://openalex.org/W1999841220","Leaf Cuticular Morphology Links Platanaceae and Proteaceae",2005,"https://doi.org/10.1086/431806"
+"Carter_2009","doi","enriched","https://openalex.org/W2110509128","Plasticity in the Huber value contributes to homeostasis in leaf water relations of a mallee Eucalypt with variation to groundwater depth",2009,"https://doi.org/10.1093/treephys/tpp076"
+"Catford_2011","doi","enriched","https://openalex.org/W1734790953","Flow regulation reduces native plant cover and facilitates exotic invasion in riparian wetlands",2011,"https://doi.org/10.1111/j.1365-2664.2010.01945.x"
+"Catford_2014","doi","enriched","https://openalex.org/W2090732939","Species and environmental characteristics point to flow regulation and drought as drivers of riparian plant invasion",2014,"https://doi.org/10.1111/ddi.12225"
+"Cernusak_2006","doi","review_doi_metadata","https://openalex.org/W2112398099","Stem and leaf gas exchange and their responses to fire in a north Australian tropical savanna",2005,"https://doi.org/10.1111/j.1365-3040.2005.01442.x"
+"Cernusak_2011","doi","no_openalex_abstract","https://openalex.org/W2021259565","Photosynthetic physiology of eucalypts along a sub-continental rainfall gradient in northern Australia",2011,"https://doi.org/10.1016/j.agrformet.2011.01.006"
+"Chandler_2002","doi","enriched","https://openalex.org/W2082587083","Monograph of Gastrolobium (Fabaceae: Mirbelieae)",2002,"https://doi.org/10.1071/sb01010"
+"Chave_2009","doi","enriched","https://openalex.org/W2158155342","Towards a worldwide wood economics spectrum",2009,"https://doi.org/10.1111/j.1461-0248.2009.01285.x"
+"Cheal_2017","title","not_found",,,,
+"Cheesman_2020","doi","enriched","https://openalex.org/W3082140343","Isotopic and morphologic proxies for reconstructing light environment and leaf function of fossil leaves: a modern calibration in the Daintree Rainforest, Australia",2020,"https://doi.org/10.1002/ajb2.1523"
+"Chen_2017","doi","not_found",,,,
+"Chinnock_2007","title","no_openalex_abstract","https://openalex.org/W7037339049","Eremophila and allied genera a monograph of the plant family Myoporaceae",2007,
+"Choat_2005","doi","review_doi_metadata","https://openalex.org/W2055160380","Hydraulic architecture of deciduous and evergreen dry rainforest tree species from north-eastern Australia",2004,"https://doi.org/10.1007/s00468-004-0392-1"
+"Choat_2006","doi","enriched","https://openalex.org/W2100801850","Seasonal patterns of leaf gas exchange and water relations in dry rain forest trees of contrasting leaf phenology",2006,"https://doi.org/10.1093/treephys/26.5.657"
+"Choat_2012","doi","no_openalex_abstract","https://openalex.org/W2119006714","Global convergence in the vulnerability of forests to drought",2012,"https://doi.org/10.1038/nature11688"
+"Chudnoff_1984","title","enriched","https://openalex.org/W1720910034","Tropical timbers of the world",1984,
+"CIRAD_2009","title","review_title_candidates","https://openalex.org/W6978059579","Species wood density data",2016,"https://doi.org/10.7931/j2x34vdd"
+"Clarke_2009","doi","not_found",,,,
+"Clarke_2015","doi","no_openalex_abstract","https://openalex.org/W1970367832","A synthesis of postfire recovery traits of woody plants in Australian ecosystems",2015,"https://doi.org/10.1016/j.scitotenv.2015.04.002"
+"Cochrane_2001","title","no_openalex_abstract","https://openalex.org/W7072215869","Variation in seed production and germination in 22 rare and threatened Western Australian Verticordia (Myrtaceae)",2001,
+"Cochrane_2017","doi","review_doi_metadata","https://openalex.org/W2589716744","Modelling seed germination response to temperature inEucalyptusL'Her. (Myrtaceae) species in the context of global warming",2017,"https://doi.org/10.1017/s0960258517000010"
+"Cochrane_2018","doi","review_doi_metadata","https://openalex.org/W2904958541","Temperature thresholds for germination in 20 short‐range endemic plant species from a Greenstone Belt in southern Western Australia",2018,"https://doi.org/10.1111/plb.12951"
+"Cochrane_2019","doi","no_openalex_abstract","https://openalex.org/W2947531536","Effects of temperature on germination in eight Western Australian herbaceous species",2019,"https://doi.org/10.1007/s12224-019-09335-6"
+"Collette_2021","doi","review_doi_metadata","https://openalex.org/W3111150299","Distribution of seed dormancy classes across a fire-prone continent: effects of rainfall seasonality and temperature",2020,"https://doi.org/10.1093/aob/mcaa203"
+"Cook_2005","title","enriched","https://openalex.org/W610346747","Tropical Forages: an interactive selection tool",2005,
+"Cooper_2004","title","no_openalex_abstract","https://openalex.org/W1119835622","Fruits of the Australian Tropical Rainforest",2004,
+"Cooper_2013","title","enriched","https://openalex.org/W10390808","Australian Rainforest Fruits",2013,"https://doi.org/10.1071/9780643107854"
+"Cooper_2016","title","not_found",,,,
+"Cornwell_2006","title","not_found",,,,
+"Cowie_2012","title","review_title_candidates","https://openalex.org/W7008161156","Atalaya brevialata (Sapindaceae), a new species from the Northern Territory, Australia",2012,
+"Cowling_1987","doi","enriched","https://openalex.org/W2335077041","Seed Bank Dynamics of Four Co-Occurring Banksia Species",1987,"https://doi.org/10.2307/2260419"
+"CPBR_2002","title","not_found",,,,
+"CPBR_2023","title","not_found",,,,
+"Craven_1987","doi","enriched","https://openalex.org/W2089881088","A taxonomic Revision of Calytrix Labill. (Myrtaceae)",1987,"https://doi.org/10.1071/bru9870001"
+"Craven_2010","title","enriched","https://openalex.org/W4328001950","Melaleuca (Myrtaceae) of Western Australia: five new species, three new combinations, one new name and a new state record",2010,"https://doi.org/10.58828/nuy00585"
+"Crayzer_2004","doi","enriched","https://openalex.org/W2068103083","Reinstatement and revision of the genus Marianthus (Pittosporaceae)",2004,"https://doi.org/10.1071/sb03029"
+"Creek_2018","doi","enriched","https://openalex.org/W2886756545","Coordination between leaf, stem, and root hydraulics and gas exchange in three arid‐zone angiosperms during severe drought and recovery",2018,"https://doi.org/10.1111/pce.13418"
+"Crisp_2003","doi","enriched","https://openalex.org/W2082494306","Phylogeny and Evolution of Anomalous Roots in Daviesia (Fabaceae: Mirbelieae)",2003,"https://doi.org/10.1086/375318"
+"Crisp_2017","doi","enriched","https://openalex.org/W2599824575","A monograph of Daviesia (Mirbelieae, Faboideae, Fabaceae)",2017,"https://doi.org/10.11646/phytotaxa.300.1.1"
+"Cromer_1975","doi","not_found",,,,
+"Cross_2009","title","not_found",,,,
+"Crous_2013","doi","enriched","https://openalex.org/W2119801064","Photosynthesis of temperate E ucalyptus globulus trees outside their native range has limited adjustment to elevated CO2 and climate warming",2013,"https://doi.org/10.1111/gcb.12314"
+"Crous_2019","doi","enriched","https://openalex.org/W2943336097","Nitrogen and Phosphorus Retranslocation of Leaves and Stemwood in a Mature Eucalyptus Forest Exposed to 5 Years of Elevated CO2",2019,"https://doi.org/10.3389/fpls.2019.00664"
+"Crowley_2007","title","not_found",,,,
+"Cunningham_1999","doi","enriched","https://openalex.org/W2157430006","EVOLUTIONARY DIVERGENCES IN LEAF STRUCTURE AND CHEMISTRY, COMPARING RAINFALL AND SOIL NUTRIENT GRADIENTS",1999,"https://doi.org/10.1890/0012-9615(1999)069[0569:edilsa]2.0.co;2"
+"Curran_2009","doi","review_doi_metadata","https://openalex.org/W2027274488","Water relations of woody plants on contrasting soils during drought: does edaphic compensation account for dry rainforest distribution?",2010,"https://doi.org/10.1071/bt09128"
+"Curtis_2012","doi","enriched","https://openalex.org/W2160780227","Relationships among leaf traits of Australian arid zone plants: alternative modes of thermal protection",2012,"https://doi.org/10.1071/bt11284"
+"DBCA_2025","title","review_title_candidates","https://openalex.org/W2894033936","Threatened species and communities – walking the talk",2018,"https://doi.org/10.1111/emr.12340"
+"DEC_2008","title","not_found",,,,
+"deCampos_2013","doi","enriched","https://openalex.org/W2137794374","Downregulation of net phosphorus-uptake capacity is inversely related to leaf phosphorus-resorption proficiency in four species from a phosphorus-impoverished environment",2013,"https://doi.org/10.1093/aob/mcs299"
+"Denton_2007","doi","enriched","https://openalex.org/W2152933938","Banksia species (Proteaceae) from severely phosphorus‐impoverished soils exhibit extreme efficiency in the use and re‐mobilization of phosphorus",2007,"https://doi.org/10.1111/j.1365-3040.2007.01733.x"
+"Desh_1996","title","enriched","https://openalex.org/W1585964390","Timber Structure, Properties, Conversion and Use",1996,"https://doi.org/10.1007/978-1-349-13427-4"
+"Detombeur_2021","doi","review_doi_metadata","https://openalex.org/W3133569653","A shift from phenol to silica‐based leaf defences during long‐term soil and ecosystem development",2021,"https://doi.org/10.1111/ele.13713"
+"Detombeur_2025","doi","enriched","https://openalex.org/W4404867306","Anatomical and Trait Analyses Reveal a Silicon‐Carbon Trade‐Off in the Epidermis of Sedges",2024,"https://doi.org/10.1111/pce.15307"
+"Doherty_2021","title","enriched","https://openalex.org/W6926958633","Fire Severity and Plant Community Dynamics in the Australian Alps, Southeastern New South Wales",2021,"https://doi.org/10.25911/1az4-0r05"
+"Dong_2017","doi","enriched","https://openalex.org/W2335851063","Leaf nitrogen from first principles: field evidence for adaptive variation with climate",2017,"https://doi.org/10.5194/bg-14-481-2017"
+"Dong_2020","doi","enriched","https://openalex.org/W3011591149","Components of leaf‐trait variation along environmental gradients",2020,"https://doi.org/10.1111/nph.16558"
+"Drake_2003","doi","no_openalex_abstract","https://openalex.org/W2092903723","Water resource partitioning, stem xylem hydraulic properties, and plant water use strategies in a seasonally dry riparian tropical rainforest",2003,"https://doi.org/10.1007/s00442-003-1352-y"
+"Drake_2007","title","review_title_candidates","https://openalex.org/W1579714295","Drought traits of Eucalyptus gomphocephala in Yalgorup National Park",2008,
+"Drake_2011","doi","enriched","https://openalex.org/W2156160451","Linking hydraulic conductivity and photosynthesis to water-source partitioning in trees versus seedlings",2011,"https://doi.org/10.1093/treephys/tpr068"
+"Draper_2023","doi","enriched","https://openalex.org/W4367354625","Life-history characteristics and climate correlates of dioecious plant species in central southern Australia",2023,"https://doi.org/10.1071/bt22110"
+"Du_2018","doi","enriched","https://openalex.org/W2883153103","Relationships between plant drought response, traits, and climate of origin for green roof plant selection",2018,"https://doi.org/10.1002/eap.1782"
+"Du_2019","doi","no_openalex_abstract","https://openalex.org/W2945875035","Can the turgor loss point be used to assess drought response to select plants for green roofs in hot and dry climates?",2019,"https://doi.org/10.1007/s11104-019-04133-7"
+"Duan_2015","doi","enriched","https://openalex.org/W2346509103","Drought responses of two gymnosperm species with contrasting stomatal regulation strategies under elevated [CO 2 ] and temperature",2015,"https://doi.org/10.1093/treephys/tpv047"
+"Duff_1997","doi","enriched","https://openalex.org/W1978730093","Seasonal Patterns in Soil Moisture, Vapour Pressure Deficit, Tree Canopy Cover and Pre-dawn Water Potential in a Northern Australian Savanna",1997,"https://doi.org/10.1071/bt96018"
+"Duncan_1998","title","not_found",,,,
+"Duncan_2011","doi","enriched","https://openalex.org/W1539151379","Plant traits and extinction in urban areas: a meta-analysis of 11 cities",2011,"https://doi.org/10.1111/j.1466-8238.2010.00633.x"
+"Dwyer_2017","doi","enriched","https://openalex.org/W2616764377","Constraints on trait combinations explain climatic drivers of biodiversity: the importance of trait covariance in community assembly",2017,"https://doi.org/10.1111/ele.12781"
+"Dwyer_2018","doi","review_doi_metadata","https://openalex.org/W2619510574","Plant community responses to thinning in densely regenerating Acacia harpophylla forest",2017,"https://doi.org/10.1111/rec.12536"
+"Eamus_1998","doi","enriched","https://openalex.org/W2148502968","A cost-benefit analysis of leaves of four Australian savanna species",1998,"https://doi.org/10.1093/treephys/18.8-9.537"
+"Eamus_1999","doi","enriched","https://openalex.org/W2006867021","Seasonal changes in photosynthesis of eight savanna tree species",1999,"https://doi.org/10.1093/treephys/19.10.665"
+"Eamus_1999_2","doi","review_doi_metadata","https://openalex.org/W1556888191","A Cost-Benefit Analysis of Leaves of Eight Australian Savanna Tree Species of Differing Leaf Life-Span",1999,"https://doi.org/10.1023/a:1007048222329"
+"Eamus_2000","doi","enriched","https://openalex.org/W2151652327","Dry season conditions determine wet season water use in the wet-tropical savannas of northern Australia",2000,"https://doi.org/10.1093/treephys/20.18.1219"
+"Earle_1962","title","review_title_candidates","https://openalex.org/W2005875649","Analyses of seed samples from 113 plant families",1962,"https://doi.org/10.1007/bf02860181"
+"Edwards_2000","doi","no_openalex_abstract","https://openalex.org/W1995923506","Characterising sclerophylly: some mechanical properties of leaves from heath and forest",2000,"https://doi.org/10.1007/s004420051001"
+"Edwards_2000_2","doi","no_openalex_abstract","https://openalex.org/W2046866053","Relationships between sclerophylly, leaf biomechanical properties and leaf anatomy in some Australian heath and forest species",2000,"https://doi.org/10.1080/11263500012331350445"
+"eFLOWER_2021","doi","enriched","https://openalex.org/W3092321783","Phylogenetic analysis of fossil flowers using an angiosperm‐wide data set: proof‐of‐concept and challenges ahead",2020,"https://doi.org/10.1002/ajb2.1538"
+"eFLOWER_Dun_2022","title","not_found",,,,
+"Eldridge_1993","title","not_found",,,,
+"Ellsworth_2015","doi","review_doi_metadata","https://openalex.org/W2163100010","Phosphorus recycling in photorespiration maintains high photosynthetic capacity in woody species",2014,"https://doi.org/10.1111/pce.12468"
+"Enright_2014","doi","enriched","https://openalex.org/W2156390084","Resistance and resilience to changing climate and fire regime depend on plant functional traits",2014,"https://doi.org/10.1111/1365-2745.12306"
+"EsperonRodriguez_2019","title","not_found",,,,
+"EsperonRodriguez_2020","doi","no_openalex_abstract","https://openalex.org/W3037472889","Functional adaptations and trait plasticity of urban trees along a climatic gradient",2020,"https://doi.org/10.1016/j.ufug.2020.126771"
+"EUCLID_2023","title","not_found",,,,
+"Everingham_2020","doi","review_doi_metadata","https://openalex.org/W3117680069","Time‐traveling seeds reveal that plant regeneration and growth traits are responding to climate change",2020,"https://doi.org/10.1002/ecy.3272"
+"Falster_2003","doi","enriched","https://openalex.org/W2108872139","Leaf size and angle vary widely across species: what consequences for light interception?",2003,"https://doi.org/10.1046/j.1469-8137.2003.00765.x"
+"Falster_2005_1","doi","enriched","https://openalex.org/W2013497174","Alternative height strategies among 45 dicot rain forest species from tropical Queensland, Australia",2005,"https://doi.org/10.1111/j.0022-0477.2005.00992.x"
+"Falster_2005_2","doi","enriched","https://openalex.org/W1980473801","Tradeoffs between height growth rate, stem persistence and maximum height among plant species in a post‐fire succession",2005,"https://doi.org/10.1111/j.0030-1299.2005.13383.x"
+"Farrell_2012","doi","no_openalex_abstract","https://openalex.org/W2138835995","Green roofs for hot and dry climates: Interacting effects of plant water use, succulence and substrate",2012,"https://doi.org/10.1016/j.ecoleng.2012.08.036"
+"Farrell_2013","doi","no_openalex_abstract","https://openalex.org/W2080864792","High water users can be drought tolerant: using physiological traits for green roof plant selection",2013,"https://doi.org/10.1007/s11104-013-1725-x"
+"Farrell_2017","doi","enriched","https://openalex.org/W2603421518","Does the turgor loss point characterize drought response in dryland plants?",2017,"https://doi.org/10.1111/pce.12948"
+"Feikema_2010","doi","no_openalex_abstract","https://openalex.org/W2001783971","Validation of plantation transpiration in south-eastern Australia estimated using the 3PG+ forest growth model",2010,"https://doi.org/10.1016/j.foreco.2010.05.022"
+"FEIS_2021","title","review_title_candidates","https://openalex.org/W2902484853","The Fire Effects Information System",1987,
+"Feller_1980","doi","enriched","https://openalex.org/W2006774207","Biomass and nutrient distribution in two eucalypt forest ecosystems",1980,"https://doi.org/10.1111/j.1442-9993.1980.tb01255.x"
+"Firn_2019","doi","no_openalex_abstract","https://openalex.org/W2914099451","Leaf nutrients, not specific leaf area, are consistent indicators of elevated nutrient inputs",2019,"https://doi.org/10.1038/s41559-018-0790-1"
+"FloraBase_2025","title","review_title_candidates","https://openalex.org/W3184133936","FloraBase: the Western Australian Flora",1998,
+"Flynn_2001","title","not_found",,,,
+"FoA_print_2025","title","review_title_candidates","https://openalex.org/W3184133936","FloraBase: the Western Australian Flora",1998,
+"Fonseca_2000","doi","enriched","https://openalex.org/W2036828757","Shifts in trait‐combinations along rainfall and phosphorus gradients",2000,"https://doi.org/10.1046/j.1365-2745.2000.00506.x"
+"Fonseca_2003","doi","enriched","https://openalex.org/W2134248115","Leaf‐size divergence along rainfall and soil‐nutrient gradients: is the method of size reduction common among clades?",2003,"https://doi.org/10.1046/j.1365-2435.2003.00698.x"
+"Forrester_2010","doi","review_doi_metadata","https://openalex.org/W2069032866","Transpiration along an age series of Eucalyptus globulus plantations in southeastern Australia",2009,"https://doi.org/10.1016/j.foreco.2009.04.023"
+"Forrester_2010_2","doi","review_doi_metadata","https://openalex.org/W2059249692","Enhanced water use efficiency in a mixed Eucalyptus globulus and Acacia mearnsii plantation",2009,"https://doi.org/10.1016/j.foreco.2009.07.036"
+"Forrester_2012","doi","review_doi_metadata","https://openalex.org/W2033623160","Interactive effects of simultaneously applied thinning, pruning and fertiliser application treatments on growth, biomass production and crown architecture in a young Eucalyptus nitens plantation",2011,"https://doi.org/10.1016/j.foreco.2011.11.039"
+"Forster_1992","doi","enriched","https://openalex.org/W2041921041","A taxonomic revision of Alyxia (Apocynaceae) in Australia",1992,"https://doi.org/10.1071/sb9920547"
+"Forster_1995","doi","enriched","https://openalex.org/W2008335439","New names and combinations in Marsdenia (Asclepiadaceae: Marsdenieae) from Asia and Malesia (excluding Papusia)",1995,"https://doi.org/10.1071/sb9950691"
+"French_2017","doi","enriched","https://openalex.org/W2509705584","Cause and effects of a megafire in sedge-heathland in the Tasmanian temperate wilderness",2016,"https://doi.org/10.1071/bt16087"
+"Froend_2006","doi","enriched","https://openalex.org/W2126826557","Defining phreatophyte response to reduced water availability: preliminary investigations on the use of xylem cavitation vulnerability in Banksia woodland species",2006,"https://doi.org/10.1071/bt05081"
+"Funk_2016","doi","review_doi_metadata","https://openalex.org/W1867631577","Plant functional traits of dominant native and invasive species in mediterranean‐climate ecosystems",2015,"https://doi.org/10.1890/15-0974.1"
+"Gallagher_2011","doi","enriched","https://openalex.org/W2154465726","Invasiveness in introduced Australian acacias: the role of species traits and genome size",2011,"https://doi.org/10.1111/j.1472-4642.2011.00805.x"
+"Gallagher_2012","doi","enriched","https://openalex.org/W2101090220","A global analysis of trait variation and evolution in climbing plants",2012,"https://doi.org/10.1111/j.1365-2699.2012.02773.x"
+"Gallagher_2015","title","not_found",,,,
+"Gallagher_2018","title","not_found",,,,
+"Gardiner_2019","doi","enriched","https://openalex.org/W2972947548","Look to seedling heights, rather than functional traits, to explain survival during extreme heat stress in the early stages of subtropical rainforest restoration",2019,"https://doi.org/10.1111/1365-2664.13505"
+"Geange_2017","doi","enriched","https://openalex.org/W2756319014","Phenotypic plasticity and water availability: responses of alpine herb species along an elevation gradient",2017,"https://doi.org/10.1186/s40665-017-0033-8"
+"Geange_2020","doi","enriched","https://openalex.org/W3006016900","Aciphylla glacialis mortality, growth and frost resistance: a field warming experiment",2020,"https://doi.org/10.1071/bt19034"
+"George_1991","title","review_title_candidates","https://openalex.org/W2948073333","New taxa, combinations and typifications in Verticordia (Myrtaceae : Chamelaucieae)",1991,
+"Ghannoum_2010","doi","review_doi_metadata","https://openalex.org/W2160931645","Exposure to preindustrial, current and future atmospheric CO2 and temperature differentially affects growth and photosynthesis in Eucalyptus",2009,"https://doi.org/10.1111/j.1365-2486.2009.02003.x"
+"Gleason_2012","doi","enriched","https://openalex.org/W2142644510","Stem xylem conductivity is key to plant water balance across Australian angiosperm species",2012,"https://doi.org/10.1111/j.1365-2435.2012.01962.x"
+"Gleason_2013","doi","enriched","https://openalex.org/W2019085410","Shifts in Leaf and Stem Hydraulic Traits across Aridity Gradients in Eastern Australia",2013,"https://doi.org/10.1086/673239"
+"Gleason_2014","doi","enriched","https://openalex.org/W2158238246","Whole-plant capacitance, embolism resistance and slow transpiration rates all contribute to longer desiccation times in woody angiosperms from arid and wet habitats",2014,"https://doi.org/10.1093/treephys/tpu001"
+"Gleason_2018","doi","enriched","https://openalex.org/W2794729467","Vessel scaling in evergreen angiosperm leaves conforms with Murray's law and area‐filling assumptions: implications for plant size, leaf size and cold tolerance",2018,"https://doi.org/10.1111/nph.15116"
+"Goble_1981","doi","enriched","https://openalex.org/W2066510592","Floristic and leaf structure patterns along a shallow elevational gradient",1981,"https://doi.org/10.1071/bt9810329"
+"Gosper_2004","doi","enriched","https://openalex.org/W2156890243","Fruit characteristics of invasive bitou bush, Chrysanthemoides monilifera (Asteraceae), and a comparison with co-occurring native plant species",2004,"https://doi.org/10.1071/bt03046"
+"Gosper_2012","doi","enriched","https://openalex.org/W2097070687","Changes in plant species and functional composition with time since fire in two mediterranean climate plant communities",2012,"https://doi.org/10.1111/j.1654-1103.2012.01434.x"
+"Gosper_2013","doi","enriched","https://openalex.org/W1987566720","Estimating fire interval bounds using vital attributes: implications of uncertainty and among‐population variability",2013,"https://doi.org/10.1890/12-0621.1"
+"Gosper_2013b","doi","enriched","https://openalex.org/W1971807850","Floristic diversity in fire‐sensitive eucalypt woodlands shows a ‘U’‐shaped relationship with time since fire",2013,"https://doi.org/10.1111/1365-2664.12120"
+"Gosper_2018","doi","enriched","https://openalex.org/W2802805262","A conceptual model of vegetation dynamics for the unique obligate‐seeder eucalypt woodlands of south‐western Australia",2018,"https://doi.org/10.1111/aec.12613"
+"Gosper_2022","doi","no_openalex_abstract","https://openalex.org/W4214840869","Mapping risk to plant populations from short fire intervals via relationships between maturation period and environmental productivity",2022,"https://doi.org/10.1007/s11258-022-01229-6"
+"GrassBase_2006","title","review_title_candidates","https://openalex.org/W2971037510","GrassBase - The Online World Grass Flora",2014,
+"GrassBase_2014","title","review_title_candidates","https://openalex.org/W2971037510","GrassBase - The Online World Grass Flora",2014,
+"Gray_2019","doi","enriched","https://openalex.org/W2938936830","Leaf:wood allometry and functional traits together explain substantial growth rate variation in rainforest trees",2019,"https://doi.org/10.1093/aobpla/plz024"
+"Grigg_2008","doi","enriched","https://openalex.org/W2164886324","Water relations and mineral nutrition of closely related woody plant species on desert dunes and interdunes",2008,"https://doi.org/10.1071/bt06205"
+"Groom_1996","title","not_found",,,,
+"Groom_1997","doi","enriched","https://openalex.org/W2048240760","Fruit‐seed relations in Hakea: serotinous species invest more dry matter in predispersal seed protection",1997,"https://doi.org/10.1111/j.1442-9993.1997.tb00682.x"
+"Groom_2010","doi","review_doi_metadata","https://openalex.org/W2072845724","Phosphorus accumulation in Proteaceae seeds: a synthesis",2009,"https://doi.org/10.1007/s11104-009-0135-6"
+"Grootemaat_2015","doi","enriched","https://openalex.org/W2142391869","Burn or rot: leaf traits explain why flammability and decomposability are decoupled across species",2015,"https://doi.org/10.1111/1365-2435.12449"
+"Grootemaat_2017_1","doi","enriched","https://openalex.org/W2729840386","Bark traits, decomposition and flammability of Australian forest trees",2017,"https://doi.org/10.1071/bt16258"
+"Grootemaat_2017_2","doi","enriched","https://openalex.org/W2599874169","Scaling up flammability from individual leaves to fuel beds",2017,"https://doi.org/10.1111/oik.03886"
+"Gross_1993","doi","enriched","https://openalex.org/W2015711208","The Reproductive Ecology of Canavalia rosea (Fabaceae) on Anak Krakatau, Indonesia",1993,"https://doi.org/10.1071/bt9930591"
+"Gross_2005","doi","enriched","https://openalex.org/W2038904100","A comparison of the sexual systems in the trees from the Australian tropics with other tropical biomes—more monoecy but why?",2005,"https://doi.org/10.3732/ajb.92.6.907"
+"Groves_1986","doi","enriched","https://openalex.org/W1974351565","Distribution of Biomass, Nitrogen, Phosphorus and Other Nutrients in Banksia marginata and B. ornata Shoots of Different Ages After Fire.",1986,"https://doi.org/10.1071/bt9860709"
+"Grubb_1996","doi","enriched","https://openalex.org/W2333700779","Adaptation and Inertia in the Australian Tropical Lowland Rain-Forest Flora: Contradictory Trends in Intergeneric and Intrageneric Comparisons of Seed Size in Relation to Light Demand",1996,"https://doi.org/10.2307/2389944"
+"Grubb_2008","doi","enriched","https://openalex.org/W2000408674","Monocot Leaves are Eaten Less than Dicot Leaves in Tropical Lowland Rain Forests: Correlations with Toughness and Leaf Presentation",2008,"https://doi.org/10.1093/aob/mcn047"
+"Guilherme_Pereira_2018","doi","enriched","https://openalex.org/W2790992548","Eudicots from severely phosphorus‐impoverished environments preferentially allocate phosphorus to their mesophyll",2018,"https://doi.org/10.1111/nph.15043"
+"Guilherme_Pereira_2019","doi","enriched","https://openalex.org/W2919119937","Trait convergence in photosynthetic nutrient‐use efficiency along a 2‐million year dune chronosequence in a global biodiversity hotspot",2019,"https://doi.org/10.1111/1365-2745.13158"
+"Hacke_2007","doi","enriched","https://openalex.org/W2144857665","Water Transport in Vesselless Angiosperms: Conducting Efficiency and Cavitation Safety",2007,"https://doi.org/10.1086/520724"
+"Hagemann_1967","title","enriched","https://openalex.org/W1971883087","Search for new industrial oils. XIV. Seed oils of labiatae",1967,"https://doi.org/10.1007/bf02531850"
+"Hall_1981","doi","enriched","https://openalex.org/W1978776226","The nitrogen and phosphorus concentrations of some pasture species in the Dichanthium-Eulalia Grasslands of North-West Queensland.",1981,"https://doi.org/10.1071/rj9810067"
+"Hanley_2001","doi","no_openalex_abstract","https://openalex.org/W2001557464","Herbivory, serotiny and seedling defence in Western Australian Proteaceae",2001,"https://doi.org/10.1007/s004420000538"
+"Hanley_2002","doi","enriched","https://openalex.org/W2004000002","Relationships between physical and chemical attributes of congeneric seedlings: how important is seedling defence?",2002,"https://doi.org/10.1046/j.1365-2435.2002.00612.x"
+"Harden_2018","title","not_found",,,,
+"Harris_2004","title","not_found",,,,
+"Harris_2004_2","title","not_found",,,,
+"Harrison_2009","doi","review_doi_metadata","https://openalex.org/W2056487217","Nitrogen in cell walls of sclerophyllous leaves accounts for little of the variation in photosynthetic nitrogen‐use efficiency",2008,"https://doi.org/10.1111/j.1365-3040.2008.01918.x"
+"Harvey_2017","doi","enriched","https://openalex.org/W2729226226","Long-term studies of post-fire reproduction in an Australian shrubland and woodland",2017,"https://doi.org/10.1071/bt17011"
+"Hassiotou_2009","doi","enriched","https://openalex.org/W2152344461","Stomatal crypts may facilitate diffusion of CO2 to adaxial mesophyll cells in thick sclerophylls",2009,"https://doi.org/10.1111/j.1365-3040.2009.02024.x"
+"Hatch_1955","title","not_found",,,,
+"Hayes_2014","doi","enriched","https://openalex.org/W2140252621","Foliar nutrient concentrations and resorption efficiency in plants of contrasting nutrient‐acquisition strategies along a 2‐million‐year dune chronosequence",2013,"https://doi.org/10.1111/1365-2745.12196"
+"Hayes_2018","doi","enriched","https://openalex.org/W2782222629","Proteaceae from phosphorus‐impoverished habitats preferentially allocate phosphorus to photosynthetic cells: An adaptation improving phosphorus‐use efficiency",2018,"https://doi.org/10.1111/pce.13124"
+"He_2011","doi","enriched","https://openalex.org/W2145736563","Banksia born to burn",2011,"https://doi.org/10.1111/j.1469-8137.2011.03663.x"
+"Henery_2001","doi","enriched","https://openalex.org/W2007235235","Seed mass and seed nutrient content as predictors of seed output variation between species",2001,"https://doi.org/10.1034/j.1600-0706.2001.920309.x"
+"Hislop_2023","title","not_found",,,,
+"Hocking_1982","doi","enriched","https://openalex.org/W1963816323","The Nutrition of Fruits of Two Proteaceous Shrubs, Grevillea wilsonii and Hakea undulata , From South-Western Australia",1982,"https://doi.org/10.1071/bt9820219"
+"Hocking_1986","doi","enriched","https://openalex.org/W2146810943","Mineral Nutrient Composition of Leaves and Fruits of Selected Species of Grevillea From Southwestern Australia, With Special Reference to Grevillea leucopteris Meissn",1986,"https://doi.org/10.1071/bt9860155"
+"Hong_1999","title","review_title_candidates","https://openalex.org/W7014472134","Plant Resources of South-East Asia: timber trees; lesser-known timbers.",1998,
+"Hopmans_1993","doi","no_openalex_abstract","https://openalex.org/W1995456067","Impacts of harvesting on nutrients in a eucalypt ecosystem in southeastern Australia",1993,"https://doi.org/10.1016/0378-1127(93)90069-y"
+"Huang_2015","doi","enriched","https://openalex.org/W2106787140","Elevated temperature is more effective than elevated [CO 2 ] in exposing genotypic variation in Telopea speciosissima growth plasticity: implications for woody plant populations under climate change",2015,"https://doi.org/10.1111/gcb.12990"
+"Hughes_1992","title","not_found",,,,
+"Hughes_2005","title","not_found",,,,
+"Hutton_1994","doi","enriched","https://openalex.org/W2078358674","Ericoid endophytes of Western Australian heaths (Epacridaceae)",1994,"https://doi.org/10.1111/j.1469-8137.1994.tb03974.x"
+"Hyland_2003","title","review_title_candidates","https://openalex.org/W1507020349","Australian tropical rain forest plants: trees, shrubs and vines",2003,"https://doi.org/10.5860/choice.41-0927"
+"ICRAF_2009","title","review_title_candidates","https://openalex.org/W2500543029","Global Wood Density Database",2009,"https://doi.org/10.5061/dryad.234/1"
+"Ilic_2000","title","not_found",,,,
+"Islam_1999_1","doi","enriched","https://openalex.org/W2506429982","Phosphorus availability and the growth, mineral composition and nutritive value of ephemeral forbs and associated perennials from the Pilbara, Western Australia",1999,"https://doi.org/10.1071/ea98133"
+"Islam_1999_2","title","enriched","https://openalex.org/W7067417889","Mineral content and nutritive value of native grasses and the response to added phosphorus in a Pilbara rangeland.",1999,
+"ISSG_2000","title","review_title_candidates","https://openalex.org/W3014136054","Global Invasive Species Database",2012,"https://doi.org/10.5860/choice.49-3247"
+"Jagdish_2020","title","not_found",,,,
+"Jin_2019","title","not_found",,,,
+"Jones_1966","doi","no_openalex_abstract","https://openalex.org/W2060418846","Chemical analyses of seeds II: Oil and protein content of 759 species",1966,"https://doi.org/10.1007/bf02904010"
+"Jordan_2001","doi","enriched","https://openalex.org/W1564288963","An investigation of long-distance dispersal based on species native to both Tasmania and New Zealand",2001,"https://doi.org/10.1071/bt00024"
+"Jordan_2007","title","not_found",,,,
+"Jordan_2008","doi","enriched","https://openalex.org/W2007513900","The evolutionary relations of sunken, covered, and encrypted stomata to dry habitats in Proteaceae",2008,"https://doi.org/10.3732/ajb.2007333"
+"Jordan_2015","doi","review_doi_metadata","https://openalex.org/W2143494597","Environmental adaptation in stomatal size independent of the effects of genome size",2014,"https://doi.org/10.1111/nph.13076"
+"Jordan_2020","doi","enriched","https://openalex.org/W3003714138","Links between environment and stomatal size through evolutionary time in Proteaceae",2020,"https://doi.org/10.1098/rspb.2019.2876"
+"Jurado_1991","title","enriched","https://openalex.org/W2324678002","Diaspore Weight, Dispersal, Growth Form and Perenniality of Central Australian Plants",1991,"https://doi.org/10.2307/2260669"
+"Jurado_1992","doi","enriched","https://openalex.org/W2054224896","Germination biology of selected central Australian plants",1992,"https://doi.org/10.1111/j.1442-9993.1992.tb00816.x"
+"Kalma_1998","doi","enriched","https://openalex.org/W2326201466","A comparison of heat pulse and deuterium tracing techniques for estimating sap flow in Eucalyptus grandis trees",1998,"https://doi.org/10.1093/treephys/18.10.697"
+"Kanowski_2000","title","not_found",,,,
+"Keighery_2004","title","review_title_candidates","https://openalex.org/W2184283007","Taxonomy of the Calytrix ecalycata complex (Myrtaceae)",2004,
+"Keighery_2023","title","enriched","https://openalex.org/W4327905063","Update to the taxonomy of Hypocalymma sect. Hypocalymma (Myrtaceae: Chamelaucieae), including hybrids and new species",2023,"https://doi.org/10.58828/nuy01044"
+"Kew_2019_1","title","not_found",,,,
+"Kew_2019_2","title","not_found",,,,
+"Kew_2019_3","title","not_found",,,,
+"Kew_2019_4","title","not_found",,,,
+"Kew_2019_5","title","not_found",,,,
+"Kew_2019_6","title","not_found",,,,
+"Kirkpatrick_2020","title","not_found",,,,
+"Knox_2011","doi","no_openalex_abstract","https://openalex.org/W1982959434","Fire severity and nutrient availability do not constrain resprouting in forest shrubs",2011,"https://doi.org/10.1007/s11258-011-9956-5"
+"Kocacinar_2003","doi","enriched","https://openalex.org/W2117940107","Photosynthetic pathway alters xylem structure and hydraulic function in herbaceous plants",2003,"https://doi.org/10.1111/j.1365-2478.2003.01119.x"
+"Koerner_1985","doi","no_openalex_abstract","https://openalex.org/W1969253656","Stomatal responses and water relations of Eucalyptus pauciflora in summer along an elevational gradient",1985,"https://doi.org/10.1007/bf00378313"
+"Kooyman_2011","doi","enriched","https://openalex.org/W1827372303","Phylogenetic tests of community assembly across regional to continental scales in tropical and subtropical rain forests",2011,"https://doi.org/10.1111/j.1466-8238.2010.00641.x"
+"Kotowska_2020","doi","enriched","https://openalex.org/W3008916586","Parenchyma Abundance in Wood of Evergreen Trees Varies Independently of Nutrients",2020,"https://doi.org/10.3389/fpls.2020.00086"
+"Kubiak_2009","title","review_title_candidates","https://openalex.org/W7038007871","Fire responses of bushland plants after the January 1994 wildfires in northern Sydney",2013,
+"Kuo_1982","doi","enriched","https://openalex.org/W1988836405","Nutrient Reserves in Seeds of Selected Proteaceous Species From South-Western Australia.",1982,"https://doi.org/10.1071/bt9820231"
+"Laliberte_2012","doi","enriched","https://openalex.org/W1537891485","Experimental assessment of nutrient limitation along a 2‐million‐year dune chronosequence in the south‐western Australia biodiversity hotspot",2012,"https://doi.org/10.1111/j.1365-2745.2012.01962.x"
+"Lambert_1979","title","not_found",,,,
+"Lamont_2002","doi","enriched","https://openalex.org/W2082719955","High leaf mass per area of related species assemblages may reflect low rainfall and carbon isotope discrimination rather than low phosphorus and nitrogen concentrations",2002,"https://doi.org/10.1046/j.1365-2435.2002.00631.x"
+"Lamont_2015","doi","enriched","https://openalex.org/W2124968375","LMA , density and thickness: recognizing different leaf shapes and correcting for their nonlaminarity",2015,"https://doi.org/10.1111/nph.13465"
+"Landsberg_1990","doi","enriched","https://openalex.org/W2103043799","Dieback of rural eucalypts: Response of foliar dietary quality and herbivory to defoliation",1990,"https://doi.org/10.1111/j.1442-9993.1990.tb01023.x"
+"Landsberg_1995","doi","enriched","https://openalex.org/W2014341338","Regional and local variation in insect herbivory, vegetation and soils of eucalypt associations in contrasted landscape positions along a climatic gradient",1995,"https://doi.org/10.1111/j.1442-9993.1995.tb00542.x"
+"Lawes_2011_1","doi","enriched","https://openalex.org/W2010749632","How do small savanna trees avoid stem mortality by fire? The roles of stem diameter, height and bark thickness",2011,"https://doi.org/10.1890/es10-00204.1"
+"Lawes_2011_2","doi","no_openalex_abstract","https://openalex.org/W2068481011","Bark thickness determines fire resistance of selected tree species from fire-prone tropical savanna in north Australia",2011,"https://doi.org/10.1007/s11258-011-9954-7"
+"Lawes_2012","doi","enriched","https://openalex.org/W2147505107","Costs and benefits of relative bark thickness in relation to fire damage: a savanna/forest contrast",2012,"https://doi.org/10.1111/1365-2745.12035"
+"Lawes_2014","doi","enriched","https://openalex.org/W1967951127","Bark thickness does not explain the different susceptibility of Australian and New Zealand temperate rain forests to anthropogenic fire",2014,"https://doi.org/10.1111/jbi.12292"
+"Lawson_2015","doi","enriched","https://openalex.org/W6948311514","Data from: Hydrological conditions explain wood density in riparian plants of south-eastern Australia",2015,"https://doi.org/10.5061/dryad.72h45"
+"Laxton_2005","title","review_title_candidates","https://openalex.org/W2465372429","Relationship between leaf traits, insect communities and resource availability",2007,"https://doi.org/10.25949/19432466"
+"Lee_2019","doi","enriched","https://openalex.org/W2952391264","Good neighbors aplenty: fungal endophytes rarely exhibit competitive exclusion patterns across a span of woody habitats",2019,"https://doi.org/10.1002/ecy.2790"
+"Leigh_2003","doi","enriched","https://openalex.org/W2022974739","Sexual dimorphism in reproductive allocation and water use efficiency in Maireana pyramidata (Chenopodiaceae), a dioecious, semi-arid shrub",2003,"https://doi.org/10.1071/bt03043"
+"Leigh_2006","doi","enriched","https://openalex.org/W2085243310","Reproductive allocation in a gender dimorphic shrub: anomalous female investment in Gynatrix pulchella?",2006,"https://doi.org/10.1111/j.1365-2745.2006.01164.x"
+"Leishman_1992","doi","enriched","https://openalex.org/W2331447434","Classifying Plants into Groups on the Basis of Associations of Individual Traits--Evidence from Australian Semi-Arid Woodlands",1992,"https://doi.org/10.2307/2260687"
+"Leishman_1993","title","not_found",,,,
+"Leishman_1995","doi","enriched","https://openalex.org/W2326089752","Correlates of Seed Size Variation: A Comparison Among Five Temperate Floras",1995,"https://doi.org/10.2307/2261604"
+"Leishman_2007","doi","enriched","https://openalex.org/W2106226483","Leaf trait relationships of native and invasive plants: community‐ and global‐scale comparisons",2007,"https://doi.org/10.1111/j.1469-8137.2007.02189.x"
+"Lemmens_1994","title","not_found",,,,
+"Lenz_2006","doi","enriched","https://openalex.org/W2149903867","Interrelations among pressure–volume curve traits across species and water availability gradients",2006,"https://doi.org/10.1111/j.1399-3054.2006.00680.x"
+"Leuning_1991","doi","no_openalex_abstract","https://openalex.org/W1971018951","Spatial distributions of foliar nitrogen and phosphorus in crowns of Eucalyptus grandis",1991,"https://doi.org/10.1007/bf00317712"
+"Lewis_2015","doi","enriched","https://openalex.org/W1944491608","Rising temperature may negate the stimulatory effect of rising CO2 on growth and physiology of Wollemi pine (Wollemia nobilis)",2015,"https://doi.org/10.1071/fp14256"
+"Li_2018","doi","enriched","https://openalex.org/W2782784478","Tree hydraulic traits are coordinated and strongly linked to climate‐of‐origin across a rainfall gradient",2018,"https://doi.org/10.1111/pce.13129"
+"Li_2019","doi","enriched","https://openalex.org/W2921155875","More than iso/anisohydry: Hydroscapes integrate plant water use and drought tolerance traits in 10 eucalypt species from contrasting climates",2019,"https://doi.org/10.1111/1365-2435.13320"
+"Lim_2017","doi","enriched","https://openalex.org/W2593801767","The role of plant functional traits in shrub distribution around alpine frost hollows",2017,"https://doi.org/10.1111/jvs.12517"
+"Liu_2023","doi","enriched","https://openalex.org/W4385988584","Leaf phosphorus allocation to chemical fractions and its seasonal variation in south-western Australia is a species-dependent trait",2023,"https://doi.org/10.1016/j.scitotenv.2023.166395"
+"Lord_1997","doi","enriched","https://openalex.org/W2042001241","Larger seeds in tropical floras: consistent patterns independent of growth form and dispersal mode",1997,"https://doi.org/10.1046/j.1365-2699.1997.00126.x"
+"Lucid_ferns_2022","title","review_title_candidates","https://openalex.org/W2948739248","Rediscovered or reconsidered: the presumed extinct ferns and lycophytes of tropical Queensland, Australia",2019,"https://doi.org/10.1071/sb18024"
+"Lucid_SE_NSW_2025","title","review_title_candidates","https://openalex.org/W2120559033","Could this be Australia’s rarest Banksia? Banksia vincentia (Proteaceae), a new species known from fourteen plants from south-eastern New South Wales, Australia",2014,"https://doi.org/10.11646/phytotaxa.163.5.3"
+"Lucid_WA_orchids_2024","title","not_found",,,,
+"Lucid_WATTLE_2018","title","review_title_candidates","https://openalex.org/W1605711236","Wattle: Acacias of Australia",2003,
+"Lunt_1990","title","not_found",,,,
+"Lunt_2012","title","not_found",,,,
+"Lusk_2010","doi","enriched","https://openalex.org/W2166206539","Reconciling species‐level vs plastic responses of evergreen leaf structure to light gradients: shade leaves punch above their weight",2010,"https://doi.org/10.1111/j.1469-8137.2010.03202.x"
+"Lusk_2012","doi","enriched","https://openalex.org/W2106446694","Light requirements of Australian tropical vs. cool-temperate rainforest tree species show different relationships with seedling growth and functional traits",2012,"https://doi.org/10.1093/aob/mcs289"
+"Lusk_2014","doi","enriched","https://openalex.org/W2037264421","Seedling growth rates and light requirements of subtropical rainforest trees associated with basaltic and rhyolitic soils",2014,"https://doi.org/10.1071/bt13262"
+"Macfarlane_2020","title","enriched","https://openalex.org/W4328001949","Formal naming of Bossiaea reptans (Fabaceae), an endangered species from the Warren region, Western Australia",2020,"https://doi.org/10.58828/nuy00965"
+"MacinnisNg_2004","doi","enriched","https://openalex.org/W2032639908","Convergence in hydraulic architecture, water relations and primary productivity amongst habitats and across seasons in Sydney",2004,"https://doi.org/10.1071/fp03194"
+"MacinnisNg_2016","doi","no_openalex_abstract","https://openalex.org/W2289556980","Seasonal variations in tree water use and physiology correlate with soil salinity and soil water content in remnant woodlands on saline soils",2016,"https://doi.org/10.1016/j.jaridenv.2016.02.011"
+"Maconochie_1985","title","no_openalex_abstract","https://openalex.org/W1838251456","Plants of the Australian arid zone — an undeveloped potential",1985,"https://doi.org/10.1007/978-94-011-6830-4_21"
+"Manea_2011","title","not_found",,,,
+"Markey_2017","title","review_title_candidates","https://openalex.org/W6903809229","Targeted Rare and Priority Flora Survey: La Grange Project Area (West Kimberley, Western Australia)",2018,"https://doi.org/10.13140/rg.2.2.20265.03684"
+"Marsh_1995","doi","enriched","https://openalex.org/W2109927601","Decline of Eucalyptus tereticornis Near Bairnsdale, Victoria: Insect Herbivory and Nitrogen Fractions in Sap and Foliage",1995,"https://doi.org/10.1071/bt9950039"
+"Maslin_2012","title","not_found",,,,
+"McCarthy_2017","doi","enriched","https://openalex.org/W2991315229","A regional-scale assessment of using metabolic scaling theory to predict ecosystem properties",2019,"https://doi.org/10.1098/rspb.2019.2221"
+"McClenahan_2004","doi","enriched","https://openalex.org/W2106574682","Hydraulic architecture and water relations of several species at diverse sites around Sydney",2004,"https://doi.org/10.1071/bt03123"
+"McGlone_2010","title","review_title_candidates","https://openalex.org/W2128758837","Comparative biogeography of New Zealand trees: species richness, height, leaf traits and range sizes",2010,
+"McGlone_2015","doi","review_doi_metadata","https://openalex.org/W1994189985","Is there a ‘suboptimal’ woody species height? A response to Scheffer et al.",2014,"https://doi.org/10.1016/j.tree.2014.09.007"
+"McIntyre_1995","doi","enriched","https://openalex.org/W2146735348","Plant Life-History Attributes: Their Relationship to Disturbance Response in Herbaceous Vegetation",1995,"https://doi.org/10.2307/2261148"
+"Meakins_0000","title","not_found",,,,
+"Medhurst_1999","doi","review_doi_metadata","https://openalex.org/W2059297368","Allometric relationships for",1999,"https://doi.org/10.1007/s004680050213"
+"Medhurst_2002","doi","enriched","https://openalex.org/W2325118476","Measured and predicted changes in tree and stand water use following high-intensity thinning of an 8-year-old Eucalyptus nitens plantation",2002,"https://doi.org/10.1093/treephys/22.11.775"
+"Meers_2007","title","review_title_candidates","https://openalex.org/W2616260910","The role of plant functional traits in determining the response of vegetation to land-use change on the Delatite Peninsula, Victoria",2006,
+"Meers_2008","doi","enriched","https://openalex.org/W1860829409","Role of plant functional traits in determining vegetation composition of abandoned grazing land in north‐eastern Victoria, Australia",2008,"https://doi.org/10.3170/2008-8-18401"
+"Meers_2010","doi","enriched","https://openalex.org/W1954426536","Do generalisations of global trade-offs in plant design apply to an Australian sclerophyllous flora?",2010,"https://doi.org/10.1071/bt10013"
+"Meers_2010_2","doi","review_doi_metadata","https://openalex.org/W2086636484","Conversion of native forest to exotic Pinus radiata plantation: Response of understorey plant composition using a plant functional trait approach",2009,"https://doi.org/10.1016/j.foreco.2009.10.035"
+"Meier_2007","title","review_title_candidates","https://openalex.org/W847389687","The CIRAD-CMS woods database",1999,
+"Mesaglio_2022","doi","review_doi_metadata","https://openalex.org/W4311913664","Comprehensive biodiversity survey of Wategora Reserve and Everley Park along Duck River, western Sydney",2022,"https://doi.org/10.32942/x29886"
+"Metcalfe_2009","doi","review_doi_metadata","https://openalex.org/W946061202","Land‐use intensification reduces functional redundancy and response diversity in plant communities",2009,"https://doi.org/10.1111/j.1461-0248.2009.01403.x"
+"Metcalfe_2020_1","title","not_found",,,,
+"Metcalfe_2020_2","title","not_found",,,,
+"Mickle_2009","title","not_found",,,,
+"Milberg_1997","doi","enriched","https://openalex.org/W2026048680","Seed/cotyledon size and nutrient content play a major role in early performance of species on nutrient‐poor soils",1997,"https://doi.org/10.1046/j.1469-8137.1997.00870.x"
+"Milberg_1998","doi","enriched","https://openalex.org/W2073845293","Seedling growth response to added nutrients depends on seed size in three woody genera",1998,"https://doi.org/10.1046/j.1365-2745.1998.00283.x"
+"Mitchell_2008","doi","no_openalex_abstract","https://openalex.org/W2028821933","Using multiple trait associations to define hydraulic functional types in plant communities of south-western Australia",2008,"https://doi.org/10.1007/s00442-008-1152-5"
+"Mitchell_2008_2","doi","enriched","https://openalex.org/W1994886041","Leaf water relations during summer water deficit: differential responses in turgor maintenance and variation in leaf structure among different plant communities in south‐western Australia",2008,"https://doi.org/10.1111/j.1365-3040.2008.01882.x"
+"Mokany_2003","doi","enriched","https://openalex.org/W2323326028","Interaction between sapwood and foliage area in alpine ash (Eucalyptus delegatensis) trees of different heights",2003,"https://doi.org/10.1093/treephys/23.14.949"
+"Mokany_2008","doi","review_doi_metadata","https://openalex.org/W2035590384","Are traits measured on pot grown plants representative of those in natural communities?",2007,"https://doi.org/10.3170/2007-8-18340"
+"Mokany_2015","doi","enriched","https://openalex.org/W2208914425","Linking changes in community composition and function under climate change",2015,"https://doi.org/10.1890/14-2384.1"
+"Moles_2000","doi","not_found",,,,
+"Moles_2003","doi","enriched","https://openalex.org/W2020794281","Seed size and survival in the soil in arid Australia",2003,"https://doi.org/10.1046/j.1442-9993.2003.01314.x"
+"Moles_2011","doi","enriched","https://openalex.org/W2105584985","Putting plant resistance traits on the map: a test of the idea that plants are better defended at lower latitudes",2011,"https://doi.org/10.1111/j.1469-8137.2011.03732.x"
+"Mooney_1978","doi","no_openalex_abstract","https://openalex.org/W2012316013","Photosynthetic capacity and carbon allocation patterns in diverse growth forms of Eucalyptus",1978,"https://doi.org/10.1007/bf00344575"
+"Moore_1967","doi","enriched","https://openalex.org/W2060320417","Dry matter and nutrient content of a subtropical semiarid forest of Acacia harpophylla F. Muell. (Brigalow)",1967,"https://doi.org/10.1071/bt9670011"
+"Moore_2019","title","not_found",,,,
+"Moore_2019_2","doi","enriched","https://openalex.org/W2891467578","Effects of drought and fire on resprouting capacity of 52 temperate Australian perennial native grasses",2018,"https://doi.org/10.1111/nph.15480"
+"Morgan_1999","doi","no_openalex_abstract","https://openalex.org/W284966464","Defining grassland fire events and the response of perennial plants to annual fire in temperate grasslands of south-eastern Australia",1999,"https://doi.org/10.1023/a:1009731815511"
+"Morgan_2005","title","not_found",,,,
+"Morgan_2011_1","title","not_found",,,,
+"Morgan_2011_2","title","not_found",,,,
+"Morgan_2014","title","not_found",,,,
+"Morgan_2021","doi","review_doi_metadata","https://openalex.org/W6927226823","Assessment of variance in specific leaf area (SLA) in 10 Eucalyptus species to inform functional trait sampling strategies for TERN Ausplots",2021,"https://doi.org/10.25909/14197298"
+"Morris_1999","doi","no_openalex_abstract","https://openalex.org/W2043728752","Water use and salt accumulation by Eucalyptus camaldulensis and Casuarina cunninghamiana on a site with shallow saline groundwater",1999,"https://doi.org/10.1016/s0378-3774(98)00079-1"
+"Mott_1978","doi","enriched","https://openalex.org/W2044567881","Dormancy and Germination in Five Native Grass Species From Savannah Woodland Communities of the Northern Territory",1978,"https://doi.org/10.1071/bt9780621"
+"Mound_2001","title","enriched","https://openalex.org/W2137759720","Thrips Pollination of the Central Australian Cycad, Macrozamia macdonnellii (Cycadales)",2001,"https://doi.org/10.1086/317899"
+"Muir_2014","doi","enriched","https://openalex.org/W1979320548","Reproductive trajectories over decadal time-spans after fire for eight obligate-seeder shrub species in south-eastern Australia",2014,"https://doi.org/10.1071/bt14117"
+"Munroe_2019","doi","enriched","https://openalex.org/W3149703171","The photosynthetic pathways of plant species surveyed in Australia’s national terrestrial monitoring network",2021,"https://doi.org/10.1038/s41597-021-00877-z"
+"Myers_1997","doi","enriched","https://openalex.org/W2072983685","Seasonal Variation in Water Relations of Trees of Differing Leaf Phenology in a Wet–Dry Tropical Savanna near Darwin, Northern Australia",1997,"https://doi.org/10.1071/bt96015"
+"Nano_2011","doi","no_openalex_abstract","https://openalex.org/W1989590300","How do drought and fire influence the patterns of resprouting in Australian deserts?",2011,"https://doi.org/10.1007/s11258-011-9988-x"
+"NHNSW_2014","title","review_title_candidates","https://openalex.org/W6893341397","PlantNet M1 SSD",2025,"https://doi.org/10.5281/zenodo.15132367"
+"NHNSW_2014_2","title","not_found",,,,
+"NHNSW_2016","title","not_found",,,,
+"NHNSW_2022","title","not_found",,,,
+"NHNSW_2023","title","not_found",,,,
+"NHNSW_2024","title","not_found",,,,
+"Nicholson_2017","doi","enriched","https://openalex.org/W2617381478","High post-fire mortality of resprouting woody plants in Tasmanian Mediterranean-type vegetation",2017,"https://doi.org/10.1071/wf16211"
+"Nicolle_2006","doi","enriched","https://openalex.org/W2042723402","A classification and census of regenerative strategies in the eucalypts (Angophora, Corymbia and Eucalyptus—Myrtaceae), with special reference to the obligate seeders",2006,"https://doi.org/10.1071/bt05061"
+"Nicolle_2018","title","not_found",,,,
+"Niinemets_2009","doi","enriched","https://openalex.org/W2137557335","Leaf mesophyll diffusion conductance in 35 Australian sclerophylls covering a broad range of foliage structural and physiological variation",2009,"https://doi.org/10.1093/jxb/erp045"
+"Nolan_2022","doi","not_found",,,,
+"NSWDEH_2025","title","review_title_candidates","https://openalex.org/W2189780488","Cities are hotspots for threatened species",2015,"https://doi.org/10.1111/geb.12404"
+"NSWFRD_2014","title","not_found",,,,
+"NTH_2011","title","not_found",,,,
+"NTH_2014","title","not_found",,,,
+"NTH_2022","title","not_found",,,,
+"NTH_2023","title","not_found",,,,
+"NZPCN_2025","title","review_title_candidates","https://openalex.org/W4388959848","The New Zealand plant conservation network",2015,"https://doi.org/10.5962/p.373589"
+"OEH_2004","title","not_found",,,,
+"OGrady_2006","doi","no_openalex_abstract","https://openalex.org/W2020411470","Above- and below-ground relationships, with particular reference to fine roots, in a young Eucalyptus globulus (Labill.) stand in southern Tasmania",2006,"https://doi.org/10.1007/s00468-006-0055-5"
+"Onoda_2010","doi","enriched","https://openalex.org/W2168143114","The relationship between stem biomechanics and wood density is modified by rainfall in 32 Australian woody plant species",2009,"https://doi.org/10.1111/j.1469-8137.2009.03088.x"
+"Ooi_2007","title","not_found",,,,
+"Ooi_2018","title","not_found",,,,
+"Orchard_1989","title","review_title_candidates","https://openalex.org/W4299559631","Azorella Lamarck (Apiaceae) on Heard and Macquarie Islands, with description of a new species A. macquariensis",1989,"https://doi.org/10.5962/p.184034"
+"OReillyNugent_2018","title","enriched","https://openalex.org/W4232577561","Measuring competitive impact: joint-species modelling of invaded plant communities",2018,"https://doi.org/10.32942/osf.io/rcvt4"
+"Osborne_2014","doi","enriched","https://openalex.org/W2113811911","A global database of C 4 photosynthesis in grasses",2014,"https://doi.org/10.1111/nph.12942"
+"Paczkowska_2000","title","not_found",,,,
+"Palma_2017","doi","review_doi_metadata","https://openalex.org/W2465555274","Functional trait changes in the floras of 11 cities across the globe in response to urbanization",2016,"https://doi.org/10.1111/ecog.02516"
+"Pate_1986","doi","enriched","https://openalex.org/W2327942822","Seed Nutrient Reserves of Proteaceae with Special Reference to Protein Bodies and their Inclusions",1986,"https://doi.org/10.1093/oxfordjournals.aob.a087159"
+"Pate_1989","doi","enriched","https://openalex.org/W2116421061","Anomalous secondary thickening in roots of Daviesia (Fabaceae) and its taxonomic significance",1989,"https://doi.org/10.1111/j.1095-8339.1989.tb00397.x"
+"Pate_1990","doi","enriched","https://openalex.org/W1920595663","Seedling Growth and Storage Characteristics of Seeder and Resprouter Species of Mediterranean-type Ecosystems of S. W. Australia",1990,"https://doi.org/10.1093/oxfordjournals.aob.a087976"
+"Pate_1998","doi","enriched","https://openalex.org/W2058691416","Australian mulga ecosystems –13C and 15N natural abundances of biota components and their ecophysiological significance",1998,"https://doi.org/10.1046/j.1365-3040.1998.00359.x"
+"Paula_2009","doi","enriched","https://openalex.org/W1501865057","Fire‐related traits for plant species of the Mediterranean Basin",2009,"https://doi.org/10.1890/08-1309.1"
+"Pearcy_1987","doi","enriched","https://openalex.org/W2315194364","Photosynthetic Gas Exchange Responses of Australian Tropical Forest Trees in Canopy, Gap and Understory Micro-Environments",1987,"https://doi.org/10.2307/2389419"
+"Peeters_2002","doi","enriched","https://openalex.org/W1879342307","Correlations between leaf structural traits and the densities of herbivorous insect guilds",2002,"https://doi.org/10.1046/j.1095-8312.2002.00091.x"
+"Pekin_2011","doi","enriched","https://openalex.org/W1580569763","Plant functional traits along environmental gradients in seasonally dry and fire-prone ecosystem",2011,"https://doi.org/10.1111/j.1654-1103.2011.01323.x"
+"Pfautsch_2016","doi","enriched","https://openalex.org/W2309036944","Vessel diameter and related hydraulic traits of 31 Eucalyptus species arrayed along a gradient of water availability",2016,"https://doi.org/10.1890/16-0147.1"
+"Pfautsch_2016_2","doi","enriched","https://openalex.org/W2292492339","Climate determines vascular traits in the ecologically diverse genus Eucalyptus",2016,"https://doi.org/10.1111/ele.12559"
+"Pickering_2014","doi","no_openalex_abstract","https://openalex.org/W2038489633","A resurvey of late-lying snowpatches reveals changes in both species and functional composition across snowmelt zones",2014,"https://doi.org/10.1007/s00035-014-0140-0"
+"Pickup_2002","title","not_found",,,,
+"Pickup_2005","doi","enriched","https://openalex.org/W2160048916","Dry mass costs of deploying leaf area in relation to leaf size",2005,"https://doi.org/10.1111/j.0269-8463.2005.00927.x"
+"Pickup_2021","title","not_found",,,,
+"Pickup_2021_2","title","request_failed",,,,
+"Pinkard_2003","doi","review_doi_metadata","https://openalex.org/W2067721543","Crown and stand characteristics of Eucalyptus nitens in response to initial spacing: implications for thinning",2002,"https://doi.org/10.1016/s0378-1127(01)00803-9"
+"Pinkard_2011","doi","enriched","https://openalex.org/W2109868789","Are gas exchange responses to resource limitation and defoliation linked to source:sink relationships?",2011,"https://doi.org/10.1111/j.1365-3040.2011.02361.x"
+"Pirralho_2014","doi","no_openalex_abstract","https://openalex.org/W2063627771","Evaluation on paper making potential of nine Eucalyptus species based on wood anatomical features",2014,"https://doi.org/10.1016/j.indcrop.2014.01.040"
+"PlantNET_2025","title","not_found",,,,
+"Pollock_2012","doi","enriched","https://openalex.org/W2170408123","The role of functional traits in species distributions revealed through a hierarchical model",2011,"https://doi.org/10.1111/j.1600-0587.2011.07085.x"
+"Pollock_2018","doi","enriched","https://openalex.org/W2896474420","Combining functional traits, the environment and multiple surveys to understand semi‐arid tree distributions",2018,"https://doi.org/10.1111/jvs.12686"
+"Portelli_2023","doi","enriched","https://openalex.org/W4389661796","From mallees to mountain ash, specific leaf area is coordinated with eucalypt tree stature, resprouting, stem construction, and fruit size",2023,"https://doi.org/10.1071/bt23028"
+"Prior_2000","doi","review_doi_metadata","https://openalex.org/W2104025813","Seasonal changes in hydraulic conductance, xylem embolism and leaf area in Eucalyptus tetrodonta and Eucalyptus miniata saplings in a north Australian savanna",2000,"https://doi.org/10.1046/j.1365-3040.2000.00612.x"
+"Prior_2003","doi","enriched","https://openalex.org/W2006940527","Leaf attributes in the seasonally dry tropics: a comparison of four habitats in northern Australia",2003,"https://doi.org/10.1046/j.1365-2435.2003.00761.x"
+"Prior_2004","doi","enriched","https://openalex.org/W2066044791","Seasonal differences in leaf attributes in Australian tropical tree species: family and habitat comparisons",2004,"https://doi.org/10.1111/j.0269-8463.2004.00885.x"
+"Prior_2016","doi","review_doi_metadata","https://openalex.org/W2296793092","Impact of high-severity fire in a Tasmanian dry eucalypt forest",2016,"https://doi.org/10.1071/bt15259"
+"Prior_2022","doi","review_doi_metadata","https://openalex.org/W4213057814","Using permanent forest plots to evaluate the resilience to fire of Tasmania’s tall wet eucalypt forests",2021,"https://doi.org/10.1016/j.foreco.2021.119922"
+"Prospect_2009","title","review_title_candidates","https://openalex.org/W2185534051","SOUTH WOOD LAKE (STAGHORN) GOLD PROSPECT LITHOGEOCHEMICAL DATABASE (MAP AREA NTS 12A/04)",2014,
+"Purdie_1976","title","enriched","https://openalex.org/W2000831844","Vegetation succession after fire in sclerophyll woodland communities in south‐eastern Australia",1976,"https://doi.org/10.1111/j.1442-9993.1976.tb01111.x"
+"Radfordsmith_2024","doi","enriched","https://openalex.org/W4404966044","A Functional Basis for the Assembly of Australian Subtropical Rainforest Tree Communities",2024,"https://doi.org/10.1111/ele.70014"
+"RBGK_2014","title","review_title_candidates","https://openalex.org/W2949927997","Royal Botanic Gardens, Kew’s Seed Information Database (SID): A compilation of taxon-based biological seed characteristics or traits",2019,"https://doi.org/10.3897/biss.3.37030"
+"RBGV_2022","title","review_title_candidates","https://openalex.org/W7010361911","How the Royal Botanic Gardens Victoria is saving flora from climate disasters",2020,
+"RBGV_2023","title","review_title_candidates","https://openalex.org/W7010361911","How the Royal Botanic Gardens Victoria is saving flora from climate disasters",2020,
+"Read_2003","doi","enriched","https://openalex.org/W2153849347","Characterizing sclerophylly: the mechanical properties of a diverse range of leaf types",2003,"https://doi.org/10.1046/j.1469-8137.2003.00855.x"
+"Read_2005","doi","no_openalex_abstract","https://openalex.org/W2046623168","Leaf Mechanical Properties in Sclerophyll Woodland and Shrubland on Contrasting Soils",2005,"https://doi.org/10.1007/s11104-005-3343-8"
+"Reid_1999","title","review_title_candidates","https://openalex.org/W2199053233","Vegetation of Tasmania",1998,
+"Reynolds_2018","doi","enriched","https://openalex.org/W2768924140","Unexpected drought resistance strategies in seedlings of four Brachychiton species",2017,"https://doi.org/10.1093/treephys/tpx143"
+"Rice_1991","title","not_found",,,,
+"Rice_2004","doi","no_openalex_abstract","https://openalex.org/W2006070741","Patterns of tree dieback in Queensland, Australia: the importance of drought stress and the role of resistance to cavitation",2004,"https://doi.org/10.1007/s00442-004-1503-9"
+"Richards_2003","doi","no_openalex_abstract","https://openalex.org/W2083459755","Physiological profiles of restricted endemic plants and their widespread congenors in the North Queensland wet tropics, Australia",2003,"https://doi.org/10.1016/s0006-3207(02)00245-8"
+"Richards_2008","title","not_found",,,,
+"Richards_2021","doi","no_openalex_abstract","https://openalex.org/W3133417272","Mistletoes and their eucalypt hosts differ in the response of leaf functional traits to climatic moisture supply",2021,"https://doi.org/10.1007/s00442-021-04867-1"
+"Roberts_2001","doi","no_openalex_abstract","https://openalex.org/W2121869389","Transpiration from Eucalyptus sieberi (L. Johnson) forests of different age",2001,"https://doi.org/10.1016/s0378-1127(00)00514-4"
+"Roberts_2006","title","not_found",,,,
+"Roderick_1999","doi","enriched","https://openalex.org/W2037036590","The relationship between leaf composition and morphology at elevated CO2 concentrations",1999,"https://doi.org/10.1046/j.1469-8137.1999.00438.x"
+"Roderick_2002","doi","enriched","https://openalex.org/W1990342305","On the Conservative Nature of the Leaf Mass-Area Relationship",2002,"https://doi.org/10.1093/aob/mcf100"
+"Rosell_2014","doi","review_doi_metadata","https://openalex.org/W2139155232","Bark functional ecology: evidence for tradeoffs, functional coordination, and environment producing bark diversity",2013,"https://doi.org/10.1111/nph.12541"
+"Rumman_2018","doi","review_doi_metadata","https://openalex.org/W2757960199","Variation in bulk‐leaf 13C discrimination, leaf traits and water‐use efficiency–trait relationships along a continental‐scale climate gradient in Australia",2017,"https://doi.org/10.1111/gcb.13911"
+"RussellSmith_2012","doi","enriched","https://openalex.org/W1714233264","Fire persistence traits can be used to predict vegetation response to changing fire regimes at expansive landscape scales – an Australian example",2012,"https://doi.org/10.1111/j.1365-2699.2012.02714.x"
+"Rye_2002","title","enriched","https://openalex.org/W2181723946","A revision of south-western Australian species of Micromyrtus (Myrtaceae) with five antisepalous ribs on the hypanthium",2002,
+"Rye_2006","title","review_title_candidates","https://openalex.org/W7014370894","A partial revision of the south-western Australian species of Micromyrtus (Myrtaceae: Chamelaucieae)",2006,
+"Rye_2009_1","title","review_title_candidates","https://openalex.org/W6912348253","Reinstatement of the Western Australian genus Oxymyrrhine (Myrtaceae: Chamelaucieae) with three new species",2009,"https://doi.org/10.5281/zenodo.16228011"
+"Rye_2009_2","title","review_title_candidates","https://openalex.org/W2188901100","A revision of the Micromyrtus racemosa complex (Myrtaceae: Chamelaucieae) of south-western Australia",2010,
+"Rye_2013_1","title","review_title_candidates","https://openalex.org/W7074236310","A revision of the species of Hypocalymma (Myrtaceae: Chamelaucieae) with smooth or colliculate seeds",2013,
+"Rye_2013_2","title","review_title_candidates","https://openalex.org/W4328003053","An update to the taxonomy of some Western Australian genera of Myrtaceae tribe Chamelaucieae. 1. Calytrix",2013,"https://doi.org/10.58828/nuy00687"
+"Rye_2015","title","review_title_candidates","https://openalex.org/W4328002845","A revision of the south-western Australian genus Babingtonia (Myrtaceae: Chamelaucieae)",2015,"https://doi.org/10.58828/nuy00758"
+"SADEW_2025","title","review_title_candidates","https://openalex.org/W2279557878","The ecology, biology and conservation of threatened Phebalium species in South Australia",2000,
+"SAH_2014","title","not_found",,,,
+"SAH_2022","title","not_found",,,,
+"SAH_2023","title","not_found",,,,
+"Sams_2017","doi","enriched","https://openalex.org/W2754299151","Landscape context explains changes in the functional diversity of regenerating forests better than climate or species richness",2017,"https://doi.org/10.1111/geb.12627"
+"Santini_2012","doi","no_openalex_abstract","https://openalex.org/W2031521408","Variation in wood density and anatomy in a widespread mangrove species",2012,"https://doi.org/10.1007/s00468-012-0729-0"
+"Santini_2013","doi","enriched","https://openalex.org/W2123398602","The anatomical basis of the link between density and mechanical strength in mangrove branches",2013,"https://doi.org/10.1071/fp12204"
+"Santini_2016","doi","no_openalex_abstract","https://openalex.org/W2189413263","Xylem traits and water-use efficiency of woody species co-occurring in the Ti Tree Basin arid zone",2015,"https://doi.org/10.1007/s00468-015-1301-5"
+"Santini_2018","doi","review_doi_metadata","https://openalex.org/W2767793786","Root xylem characteristics and hydraulic strategies of species co-occurring in semi-arid Australia",2017,"https://doi.org/10.1163/22941932-20170188"
+"SAPlants_2025","title","not_found",,,,
+"SASCC_2025","title","review_title_candidates","https://openalex.org/W7107954796","South Australian Seed Conservation Centre",2025,"https://doi.org/10.15468/k4rzy2"
+"Sauquet_2017","doi","enriched","https://openalex.org/W2741748285","The ancestral flower of angiosperms and its early diversification",2017,"https://doi.org/10.1038/ncomms16047"
+"Schippers_2000","title","review_title_candidates","https://openalex.org/W2156880584","African Indigenous Vegetables: An overview of the cultivated species.",2000,
+"Schmidt_1993","title","not_found",,,,
+"Schmidt_1997","doi","enriched","https://openalex.org/W2084361723","Waterlogging and fire impacts on nitrogen availability and utilization in a subtropical wet heathland (wallum)",1997,"https://doi.org/10.1046/j.1365-3040.1997.d01-20.x"
+"Schmidt_2003","doi","review_doi_metadata","https://openalex.org/W2034654715","δ15N values of tropical savanna and monsoon forest species reflect root specialisations and soil nitrogen status",2003,"https://doi.org/10.1007/s00442-002-1150-y"
+"Schmidt_2010","doi","no_openalex_abstract","https://openalex.org/W1969069895","Effect of woody vegetation clearing on nutrient and carbon relations of semi-arid dystrophic savanna",2009,"https://doi.org/10.1007/s11104-009-0233-5"
+"Schulze_1994","doi","enriched","https://openalex.org/W2181150263","RELATIONSHIPS AMONG MAXIMUM STOMATAL CONDUCTANCE, ECOSYSTEM SURFACE CONDUCTANCE, CARBON ASSIMILATION RATE, AND PLANT NITROGEN NUTRITION: A Global Ecology Scaling Exercise",1994,"https://doi.org/10.1146/annurev.es.25.110194.003213"
+"Schulze_1998","doi","enriched","https://openalex.org/W1977489550","Carbon and nitrogen isotope discrimination and nitrogen nutrition of trees along a rainfall gradient in northern Australia",1998,"https://doi.org/10.1071/pp97113"
+"Schulze_2006","doi","enriched","https://openalex.org/W1990328175","Species differences in carbon isotope ratios, specific leaf area and nitrogen concentrations in leaves of Eucalyptus growing in a common garden compared with along an aridity gradient",2006,"https://doi.org/10.1111/j.1399-3054.2006.00682.x"
+"Schulze_2006_2","doi","enriched","https://openalex.org/W2115121513","Leaf and wood carbon isotope ratios, specific leaf areas and wood growth of Eucalyptus species across a rainfall gradient in Australia",2006,"https://doi.org/10.1093/treephys/26.4.479"
+"Schulze_2008","doi","not_found",,,,
+"Schulze_2014","doi","no_openalex_abstract","https://openalex.org/W2087469828","Stable carbon and nitrogen isotope ratios of Eucalyptus and Acacia species along a seasonal rainfall gradient in Western Australia",2014,"https://doi.org/10.1007/s00468-014-1023-0"
+"Scott_2010","title","review_title_candidates","https://openalex.org/W6946285515","Vegetation recovery and recruitment processes in south-eastern Australian semi-arid old fields",2023,"https://doi.org/10.26181/21855105"
+"Seager_2004","title","not_found",,,,
+"Searson_2004","doi","enriched","https://openalex.org/W2015530031","Wood density and anatomy of water-limited eucalypts",2004,"https://doi.org/10.1093/treephys/24.11.1295"
+"Sendall_2016","doi","enriched","https://openalex.org/W2162044498","Trade‐offs in juvenile growth potential vs. shade tolerance among subtropical rain forest trees on soils of contrasting fertility",2015,"https://doi.org/10.1111/1365-2435.12573"
+"Seng_1951","title","not_found",,,,
+"Setterfield_2005","doi","review_doi_metadata","https://openalex.org/W1760924047","Effects of Canopy Cover and Ground Disturbance on Establishment of an Invasive Grass in an Australia Savanna 1",2005,"https://doi.org/10.1111/j.1744-7429.2005.03034.x"
+"Shedley_2007","title","not_found",,,,
+"Shepherd_2017","title","enriched","https://openalex.org/W4328002176","A revision of the Lasiopetalum floribundum group (Malvaceae), including recognition of four new species",2017,"https://doi.org/10.58828/nuy00825"
+"Shepherd_2020","title","not_found",,,,
+"Simpson_2021","doi","review_doi_metadata","https://openalex.org/W3096088671","Resprouting grasses are associated with less frequent fire than seeders",2020,"https://doi.org/10.1111/nph.17069"
+"SinghRamesh_2019","doi","review_doi_metadata","https://openalex.org/W6945997958","Far North Queensland, Montane Tree Leaf Chemistry Data, 2019",2023,"https://doi.org/10.25901/e1yb-ea83"
+"SinghRamesh_2023","doi","enriched","https://openalex.org/W4317399191","Temperature, nutrient availability, and species traits interact to shape elevation responses of Australian tropical trees",2023,"https://doi.org/10.3389/ffgc.2023.1089167"
+"Sjostrom_2006","doi","enriched","https://openalex.org/W2078463068","Life‐history characters and phylogeny are correlated with extinction risk in the Australian angiosperms",2006,"https://doi.org/10.1111/j.1365-2699.2005.01393.x"
+"Smith_1996","title","not_found",,,,
+"Smith_2012","doi","enriched","https://openalex.org/W2094919850","Leaf structural responses to pre-industrial, current and elevated atmospheric [CO2] and temperature affect leaf function in Eucalyptus sideroxylon",2012,"https://doi.org/10.1071/fp11238"
+"SmithMartin_2020","doi","enriched","https://openalex.org/W2997407994","Lack of vulnerability segmentation among woody species in a diverse dry sclerophyll woodland community",2020,"https://doi.org/10.1111/1365-2435.13519"
+"Soliveres_2012","doi","no_openalex_abstract","https://openalex.org/W2170807861","Nurse plant effects on plant species richness in drylands: The role of grazing, rainfall and species specificity",2012,"https://doi.org/10.1016/j.ppees.2012.09.003"
+"Soper_2014","doi","review_doi_metadata","https://openalex.org/W2152165374","Natural abundance (δ15N) indicates shifts in nitrogen relations of woody taxa along a savanna–woodland continental rainfall gradient",2014,"https://doi.org/10.1007/s00442-014-3176-3"
+"Specht_1988","title","enriched","https://openalex.org/W2994599696","Mediterranean-type ecosystems: a data source book",1988,
+"Specht_1990","doi","enriched","https://openalex.org/W2047958223","Sclerophylly and Foliar Nutrient Status of Mediterranean-Climate Plant Communities in Southern Australia",1990,"https://doi.org/10.1071/bt9900459"
+"Sperry_2007","doi","enriched","https://openalex.org/W2142446089","Hydraulic Consequences of Vessel Evolution in Angiosperms",2007,"https://doi.org/10.1086/520726"
+"SPRAT_2025_2","title","not_found",,,,
+"Standish_2019","title","not_found",,,,
+"Staples_2019","doi","enriched","https://openalex.org/W2955342798","Productivity does not correlate with species and functional diversity in Australian reforestation plantings across a wide climate gradient",2019,"https://doi.org/10.1111/geb.12962"
+"Stephens_2021","title","not_found",,,,
+"Stephens_2023","doi","enriched","https://openalex.org/W4379508275","Insect pollination for most of angiosperm evolutionary history",2023,"https://doi.org/10.1111/nph.18993"
+"Stephens_2024","title","not_found",,,,
+"Stewart_1995","doi","enriched","https://openalex.org/W2041299428","13C Natural Abundance in Plant Communities Along a Rainfall Gradient: a Biological Integrator of Water Availability",1995,"https://doi.org/10.1071/pp9950051"
+"Stock_1991","doi","enriched","https://openalex.org/W1968301830","Seed developmental patterns inBanksia attenuataR. Br. andB. laricinaC. Gardner in relation to mechanical defence costs",1991,"https://doi.org/10.1111/j.1469-8137.1991.tb00950.x"
+"Stuart_2007","doi","review_doi_metadata","https://openalex.org/W2166363636","The role of freezing in setting the latitudinal limits of mangrove forests",2006,"https://doi.org/10.1111/j.1469-8137.2006.01938.x"
+"Sweedman_2006","title","enriched","https://openalex.org/W836222041","Australian Seeds: A Guide to Their Collection, Identification and Biology",2006,
+"Tait_2005","doi","enriched","https://openalex.org/W2144907872","CHANGES IN SPECIES ASSEMBLAGES WITHIN THE ADELAIDE METROPOLITAN AREA, AUSTRALIA, 1836–2002",2005,"https://doi.org/10.1890/04-0920"
+"Tas_NRE_2025","title","review_title_candidates","https://openalex.org/W2894033936","Threatened species and communities – walking the talk",2018,"https://doi.org/10.1111/emr.12340"
+"Taseski_2021","doi","review_doi_metadata","https://openalex.org/W3087860819","Shifts in fine root traits within and among species along a fine-scale hydrological gradient",2020,"https://doi.org/10.1093/aob/mcaa175"
+"Taylor_2008","doi","not_found",,,,
+"Teskey_1996","doi","enriched","https://openalex.org/W2074059126","Water use by Pinus radiata trees in a plantation",1996,"https://doi.org/10.1093/treephys/16.1-2.273"
+"Thomas_2017","doi","enriched","https://openalex.org/W2735645863","Growth races in The Mallee: Height growth in woody plants examined with a trait‐based model",2017,"https://doi.org/10.1111/aec.12501"
+"Thomas_2017_2","doi","enriched","https://openalex.org/W2612475021","Are trait-growth models transferable? Predicting multi-species growth trajectories between ecosystems using plant functional traits",2017,"https://doi.org/10.1371/journal.pone.0176959"
+"Thompson_2001","doi","enriched","https://openalex.org/W2076309342","Morphometric analysis and revision of eastern Australian hovea (Brongniartieae-Fabaceae)",2001,"https://doi.org/10.1071/sb00008"
+"Thompson_2011","title","enriched","https://openalex.org/W4297930846","A revision of Muelleranthus, Ptychosema and Aenictophyton (Fabaceae: Bossiaeeae)",2011,"https://doi.org/10.5962/p.292522"
+"Thompson_2012","title","not_found",,,,
+"TMAG_2009","title","not_found",,,,
+"Tng_2013","doi","enriched","https://openalex.org/W2135022329","Plant Traits Demonstrate That Temperate and Tropical Giant Eucalypt Forests Are Ecologically Convergent with Rainforest Not Savanna",2013,"https://doi.org/10.1371/journal.pone.0084378"
+"Toelken_1996","title","enriched","https://openalex.org/W6893360571","A Revision of the Genus Kunzea (Myrtaceae) I. the Western Australian Section Zeanuk",1996,"https://doi.org/10.5281/zenodo.16433969"
+"Togashi_2015","doi","enriched","https://openalex.org/W2057653061","Morphological and moisture availability controls of the leaf area‐to‐sapwood area ratio: analysis of measurements on A ustralian trees",2015,"https://doi.org/10.1002/ece3.1344"
+"Tolsma_2002","title","enriched","https://openalex.org/W2278792326","The effects of fire and grazing on the energy reserves of resprouting plants in Victoria's alpine grasslands",2002,
+"Tolsma_2007","doi","enriched","https://openalex.org/W1986507536","Roots of Australian alpine plant species contain high levels of stored carbohydrates independent of post-fire regeneration strategy",2007,"https://doi.org/10.1071/bt06216"
+"Tomlinson_2012","doi","enriched","https://openalex.org/W2138459507","Biomass partitioning and root morphology of savanna trees across a water gradient",2012,"https://doi.org/10.1111/j.1365-2745.2012.01975.x"
+"Tomlinson_2013","doi","enriched","https://openalex.org/W1965148761","Leaf adaptations of evergreen and deciduous trees of semi‐arid and humid savannas on three continents",2013,"https://doi.org/10.1111/1365-2745.12056"
+"Tomlinson_2019","doi","review_doi_metadata","https://openalex.org/W2897917449","Seedling growth of savanna tree species from three continents under grass competition and nutrient limitation in a greenhouse experiment",2018,"https://doi.org/10.1111/1365-2745.13085"
+"Tooth_2012","doi","enriched","https://openalex.org/W1535954937","Post‐fire resprouting responses of native and exotic grasses from Cumberland Plain Woodland (Sydney, Australia) under elevated carbon dioxide",2012,"https://doi.org/10.1111/j.1442-9993.2012.02364.x"
+"Tremont_1994","doi","enriched","https://openalex.org/W2028359808","Life-History Attributes of Plants in Grazed and Ungrazed Grasslands on the Northern Tablelands of New South Wales",1994,"https://doi.org/10.1071/bt9940511"
+"Trudgen_2005","title","review_title_candidates","https://openalex.org/W7075723980","Astus, a new Western Australian genus of Myrtaceae with heterocarpidic fruits",2005,
+"Trudgen_2014","title","review_title_candidates","https://openalex.org/W4328002016","An update to the taxonomy of some Western Australian genera of Myrtaceae tribe Chamelaucieae. 2. Cyathostemon",2014,"https://doi.org/10.58828/nuy00692"
+"Tsakalos_2020","doi","no_openalex_abstract","https://openalex.org/W2978292404","Trait-based formal definition of plant functional types and functional communities in the multi-species and multi-traits context",2019,"https://doi.org/10.1016/j.ecocom.2019.100787"
+"Tsakalos_2022","doi","enriched","https://openalex.org/W4307220688","Plant clonality in a soil-impoverished open ecosystem: insights from southwest Australian shrublands",2022,"https://doi.org/10.1093/aob/mcac131"
+"Tsujii_2023","doi","enriched","https://openalex.org/W4390668244","Leaf phosphorus fractions vary with leaf economic traits among 35 Australian woody species",2024,"https://doi.org/10.1111/nph.19513"
+"Tsujii_2023_2","doi","enriched","https://openalex.org/W4362554007","A survey of leaf phosphorus fractions and leaf economic traits among 12 co-occurring woody species on phosphorus-impoverished soils",2023,"https://doi.org/10.1007/s11104-023-06001-x"
+"Turner_1983","doi","no_openalex_abstract","https://openalex.org/W1982381468","Nutrient cycling within a 27-year-old Eucalyptus grandis plantation in New South Wales",1983,"https://doi.org/10.1016/0378-1127(83)90019-1"
+"Turner_2010","doi","enriched","https://openalex.org/W2163107954","Growth in two common gardens reveals species by environment interaction in carbon isotope discrimination of Eucalyptus",2010,"https://doi.org/10.1093/treephys/tpq029"
+"vanderMoezel_1987","title","review_title_candidates","https://openalex.org/W2618271763","Northern Sandplain Kwongan: regeneration following fire, juvenile period and flowering phenology",1987,
+"Vaughan_1970","title","not_found",,,,
+"Veneklaas_2003","doi","no_openalex_abstract","https://openalex.org/W1987789627","Seasonal patterns in water use and leaf turnover of different plant functional types in a species-rich woodland, south-western Australia",2003,"https://doi.org/10.1023/a:1027383920150"
+"Venn_2011","doi","no_openalex_abstract","https://openalex.org/W2068297969","Using plant functional traits to explain community composition across a strong environmental filter in Australian alpine snowpatches",2011,"https://doi.org/10.1007/s11258-011-9923-1"
+"Venn_2014","doi","enriched","https://openalex.org/W2143437769","Spatial and temporal functional changes in alpine summit vegetation are driven by increases in shrubs and graminoids",2014,"https://doi.org/10.1093/aobpla/plu008"
+"Vertessy_1995","doi","enriched","https://openalex.org/W2048617279","Relationships between stem diameter, sapwood area, leaf area and transpiration in a young mountain ash forest",1995,"https://doi.org/10.1093/treephys/15.9.559"
+"Vertessy_1997","doi","enriched","https://openalex.org/W2325016432","Estimating stand water use of large mountain ash trees and validation of the sap flow measurement technique",1997,"https://doi.org/10.1093/treephys/17.12.747"
+"Vertessy_2001","doi","no_openalex_abstract","https://openalex.org/W2034297167","Factors determining relations between stand age and catchment water balance in mountain ash forests",2001,"https://doi.org/10.1016/s0378-1127(00)00501-6"
+"Vesk_2004","doi","enriched","https://openalex.org/W1554281692","Simple traits do not predict grazing response in Australian dry shrublands and woodlands",2004,"https://doi.org/10.1111/j.1365-2664.2004.00857.x"
+"Vesk_2007","title","not_found",,,,
+"Vesk_2019","doi","no_openalex_abstract","https://openalex.org/W2981859960","Plant resprouting: How many sprouts and how deep? Flexible modelling of multi-species experimental disturbances",2019,"https://doi.org/10.1016/j.ppees.2019.125497"
+"Vlasveld_2018","doi","enriched","https://openalex.org/W2803205988","Leaf heteroblasty in eucalypts: biogeographic evidence of ecological function",2018,"https://doi.org/10.1071/bt17134"
+"WAH_1998","title","review_title_candidates","https://openalex.org/W3184133936","FloraBase: the Western Australian Flora",1998,
+"WAH_2022_1","title","review_title_candidates","https://openalex.org/W3184133936","FloraBase: the Western Australian Flora",1998,
+"WAH_2022_2","title","review_title_candidates","https://openalex.org/W3184133936","FloraBase: the Western Australian Flora",1998,
+"WAH_2023_1","title","review_title_candidates","https://openalex.org/W3184133936","FloraBase: the Western Australian Flora",1998,
+"WAH_2023_2","title","review_title_candidates","https://openalex.org/W3184133936","FloraBase: the Western Australian Flora",1998,
+"Walsh_2004","title","review_title_candidates","https://openalex.org/W2189475477","Progress in the recovery of the flora of treeless subalpine vegetation in Kosciuszko National Park after the 2003 fires",2015,
+"Wapstra_2003","title","enriched","https://openalex.org/W2182974056","Distribution, habitat characteristics and conservation status of the forest wire-grass Ehrharta juncea (R. Br.) Sprengel (Poaceae) in Tasmania",2003,
+"Warren_2005","doi","enriched","https://openalex.org/W2125274453","Does rainfall explain variation in leaf morphology and physiology among populations of red ironbark (Eucalyptus sideroxylon subsp. tricarpa) grown in a common garden?",2005,"https://doi.org/10.1093/treephys/25.11.1369"
+"Warren_2006","doi","enriched","https://openalex.org/W2132689814","Ecotype adaptation and acclimation of leaf traits to rainfall in 29 species of 16‐year‐old Eucalyptus at two common gardens",2006,"https://doi.org/10.1111/j.1365-2435.2006.01198.x"
+"Weerasinghe_2014","doi","enriched","https://openalex.org/W2114790230","Canopy position affects the relationships between leaf respiration and associated traits in a tropical rainforest in Far North Queensland",2014,"https://doi.org/10.1093/treephys/tpu016"
+"Wells_2012","title","enriched","https://openalex.org/W150661238","Phylogeny and inter-relations of ecological traits and seed dispersal in rainforest plants: exploring aspects of functional diversity in primary and secondary rainforests in Australia's Wet Tropics",2012,
+"Wenk_2022","title","not_found",,,,
+"Wenk_2023","title","not_found",,,,
+"Wenk_2023_2","title","not_found",,,,
+"Westman_1977","doi","enriched","https://openalex.org/W2012050999","Nutrient stocks in a subtropical eucalypt forest, North Stradbroke Island",1977,"https://doi.org/10.1111/j.1442-9993.1977.tb01160.x"
+"Westoby_1990","doi","enriched","https://openalex.org/W2090891259","Seed Size and Plant Growth Form as Factors in Dispersal Spectra",1990,"https://doi.org/10.2307/1938268"
+"Westoby_2003","doi","no_openalex_abstract","https://openalex.org/W2127954946","The leaf size – twig size spectrum and its relationship to other important spectra of variation among species",2003,"https://doi.org/10.1007/s00442-003-1231-6"
+"Westoby_2004","title","not_found",,,,
+"Wheeler_2002","title","review_title_candidates","https://openalex.org/W2892951696","Flora of the South West (Bunbury–Augusta–Denmark), 2 vols",2003,"https://doi.org/10.1016/s0254-6299(15)30304-5"
+"White_1998","doi","no_openalex_abstract","https://openalex.org/W2026057668","The influence of drought on the relationship between leaf and conducting sapwood area in Eucalyptus globulus and Eucalyptus nitens",1998,"https://doi.org/10.1007/pl00009724"
+"White_2020","title","not_found",,,,
+"Wikipedia_2025","title","review_title_candidates","https://openalex.org/W2611471614","Semantic Wikipedia",2006,"https://doi.org/10.1145/1135777.1135863"
+"WildNet_2025","title","review_title_candidates","https://openalex.org/W7129086501","ALA-Wildnet-Example",2026,"https://doi.org/10.48580/dgtvl"
+"Williams_2005","doi","enriched","https://openalex.org/W1497065124","Plant traits and local extinctions in natural grasslands along an urban–rural gradient",2005,"https://doi.org/10.1111/j.1365-2745.2005.01039.x"
+"Williams_2012","doi","review_doi_metadata","https://openalex.org/W1917895601","Mechanisms of rainforest persistence and recruitment in frequently burnt wet tropical eucalypt forests",2011,"https://doi.org/10.1111/j.1442-9993.2011.02271.x"
+"Wills_2018","doi","enriched","https://openalex.org/W2789316697","Tree leaf trade‐offs are stronger for sub‐canopy trees: leaf traits reveal little about growth rates in canopy trees",2018,"https://doi.org/10.1002/eap.1715"
+"Wilson_2004","doi","enriched","https://openalex.org/W2401295867","Guidelines for ecological burning regimes in Mediterranean ecosystems: a case study in Banksia woodlands in Western Australia.",2014,"https://doi.org/10.1071/pc140057"
+"Wilson_2008","title","enriched","https://openalex.org/W2186568620","A revision of the Indigofereae (Fabaceae) in Australia. 2. Indigofera species with trifoliolate and alternately pinnate leaves",2008,"https://doi.org/10.7751/telopea20085819"
+"Witkowski_1991","doi","enriched","https://openalex.org/W1965126945","Seed Bank Dynamics of Three Co-Occurring Banksias in South Coastal Western Australia: the Role of Plant Age, Cockatoos, Senescence and Interfire Establishment.",1991,"https://doi.org/10.1071/bt9910385"
+"Wooller_2002","doi","enriched","https://openalex.org/W2119940471","Regeneration by three species of Banksia on the south coast of Western Australia in relation to fire interval",2002,"https://doi.org/10.1071/bt01078"
+"Wright_2000","doi","not_found",,,,
+"Wright_2001","title","not_found",,,,
+"Wright_2001_b","doi","enriched","https://openalex.org/W2131795541","Strategy shifts in leaf physiology, structure and nutrient content between species of high‐ and low‐rainfall and high‐ and low‐nutrient habitats",2001,"https://doi.org/10.1046/j.0269-8463.2001.00542.x"
+"Wright_2002","doi","enriched","https://openalex.org/W2156903881","Leaves at low versus high rainfall: coordination of structure, lifespan and physiology",2002,"https://doi.org/10.1046/j.1469-8137.2002.00479.x"
+"Wright_2002_2","doi","enriched","https://openalex.org/W2097666906","Convergence towards higher leaf mass per area in dry and nutrient‐poor habitats has different consequences for leaf life span",2002,"https://doi.org/10.1046/j.1365-2745.2002.00689.x"
+"Wright_2006","doi","enriched","https://openalex.org/W2140605164","Cross‐species patterns in the coordination between leaf and stem traits, and their implications for plant hydraulics",2006,"https://doi.org/10.1111/j.1399-3054.2006.00699.x"
+"Wright_2008","title","not_found",,,,
+"Wright_2009","title","not_found",,,,
+"Wright_2019","doi","enriched","https://openalex.org/W2901939123","Stem diameter growth rates in a fire‐prone savanna correlate with photosynthetic rate and branch‐scale biomass allocation, but not specific leaf area",2018,"https://doi.org/10.1111/aec.12678"
+"Yang_2023","title","not_found",,,,
+"Yates_2017","title","enriched","https://openalex.org/W7058304791","Mallee Woodlands and Shrublands: The Mallee, Muruk/Muert and Maalok Vegetation of Southern Australia",2017,"https://doi.org/10.1017/9781316339701.026"
+"Yunusa_2010","doi","no_openalex_abstract","https://openalex.org/W2055921946","Topographical and seasonal trends in transpiration by two co-occurring Eucalyptus species during two contrasting years in a low rainfall environment",2010,"https://doi.org/10.1016/j.agrformet.2010.05.007"
+"Zanne_2007","title","not_found",,,,
+"Zanne_2009","doi","review_doi_metadata","https://openalex.org/W6929532838","Data from: Towards a worldwide wood economics spectrum",2020,"https://doi.org/10.5061/dryad.234"
+"Zeppel_2008","doi","enriched","https://openalex.org/W2086308703","Coordination of leaf area, sapwood area and canopy conductance leads to species convergence of tree water use in a remnant evergreen woodland",2008,"https://doi.org/10.1071/bt07091"
+"Zieminska_2013","doi","enriched","https://openalex.org/W2135240633","Fibre wall and lumen fractions drive wood density variation across 24 Australian angiosperms",2013,"https://doi.org/10.1093/aobpla/plt046"
+"Zieminska_2015","doi","enriched","https://openalex.org/W2068808353","Broad Anatomical Variation within a Narrow Wood Density Range—A Study of Twig Wood across 69 Australian Angiosperms",2015,"https://doi.org/10.1371/journal.pone.0124892"
+"Zolfaghar_2013","title","enriched","https://openalex.org/W2562768755","Comparative ecophysiology of eucalyptus woodlands along a depth-to-groundwater gradient",2013,
+"Zolfaghar_2015","doi","enriched","https://openalex.org/W2110930923","Co-ordination among leaf water relations and xylem vulnerability to embolism ofEucalyptustrees growing along a depth-to-groundwater gradient",2015,"https://doi.org/10.1093/treephys/tpv039"
+"Zolfaghar_2015_2","doi","enriched","https://openalex.org/W2124337350","The influence of depth-to-groundwater on structure and productivity of Eucalyptus woodlands",2014,"https://doi.org/10.1071/bt14139"
+"Zolfaghar_2015_3","doi","enriched","https://openalex.org/W2741593604","Transpiration of Eucalyptus woodlands across a natural gradient of depth-to-groundwater",2017,"https://doi.org/10.1093/treephys/tpx024"
