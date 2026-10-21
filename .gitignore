@@ -48,3 +48,5 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+data/austraits/austraits-7.0.0.rds
+data/austraits/austraits.json
